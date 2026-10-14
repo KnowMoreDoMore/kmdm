@@ -1,0 +1,10 @@
+{
+  "name": "kmdm-ai-commons",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/render.mjs",
+    "test": "node scripts/test-pages.mjs && node scripts/test-news.mjs",
+    "deploy": "node scripts/deploy.mjs"
+  }
+}

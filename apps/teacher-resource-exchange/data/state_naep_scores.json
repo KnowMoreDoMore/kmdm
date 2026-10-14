@@ -1,0 +1,2909 @@
+{
+  "as_of": "2026-09-27",
+  "assessment": "NAEP 2024",
+  "source_url": "https://nces.ed.gov/nationsreportcard/state/default.aspx",
+  "data_service_url": "https://www.nationsreportcard.gov/NDEDataService/ChartHandler.aspx",
+  "methodology": "Competition positions calculated from unrounded estimates for the 50 states and District of Columbia. National public, DoDEA, and Puerto Rico are excluded. Positions do not account for sampling error and must be read with NAEP's statistical comparison.",
+  "states": [
+    {
+      "state": "Alabama",
+      "abbreviation": "AL",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 236,
+          "score_exact": 236.36,
+          "national_score": 237,
+          "at_or_above_proficient": 37,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 31,
+          "proficiency_rank": 35,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219AL4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 262,
+          "score_exact": 261.77,
+          "national_score": 272,
+          "at_or_above_proficient": 18,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 48,
+          "proficiency_rank": 48,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219AL8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 213,
+          "score_exact": 213.21,
+          "national_score": 214,
+          "at_or_above_proficient": 28,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 33,
+          "proficiency_rank": 38,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220AL4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 250,
+          "score_exact": 249.6,
+          "national_score": 257,
+          "at_or_above_proficient": 21,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 46,
+          "proficiency_rank": 48,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220AL8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Alaska",
+      "abbreviation": "AK",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 226,
+          "score_exact": 225.86,
+          "national_score": 237,
+          "at_or_above_proficient": 30,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 50,
+          "proficiency_rank": 50,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219AK4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 264,
+          "score_exact": 263.96,
+          "national_score": 272,
+          "at_or_above_proficient": 22,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 46,
+          "proficiency_rank": 41,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219AK8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 202,
+          "score_exact": 201.59,
+          "national_score": 214,
+          "at_or_above_proficient": 22,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 50,
+          "proficiency_rank": 50,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220AK4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 246,
+          "score_exact": 246.45,
+          "national_score": 257,
+          "at_or_above_proficient": 22,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 50,
+          "proficiency_rank": 47,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220AK8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Arizona",
+      "abbreviation": "AZ",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 232,
+          "score_exact": 232.41,
+          "national_score": 237,
+          "at_or_above_proficient": 34,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 45,
+          "proficiency_rank": 43,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219AZ4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 270,
+          "score_exact": 269.66,
+          "national_score": 272,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 33,
+          "proficiency_rank": 28,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219AZ8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 208,
+          "score_exact": 208.1,
+          "national_score": 214,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 46,
+          "proficiency_rank": 45,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220AZ4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 254,
+          "score_exact": 254.34,
+          "national_score": 257,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 39,
+          "proficiency_rank": 37,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220AZ8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Arkansas",
+      "abbreviation": "AR",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 230,
+          "score_exact": 230.33,
+          "national_score": 237,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 48,
+          "proficiency_rank": 47,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219AR4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 266,
+          "score_exact": 266.19,
+          "national_score": 272,
+          "at_or_above_proficient": 20,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 43,
+          "proficiency_rank": 46,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219AR8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 210,
+          "score_exact": 209.7,
+          "national_score": 214,
+          "at_or_above_proficient": 28,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 41,
+          "proficiency_rank": 37,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220AR4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 255,
+          "score_exact": 254.77,
+          "national_score": 257,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 37,
+          "proficiency_rank": 39,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220AR8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "California",
+      "abbreviation": "CA",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 233,
+          "score_exact": 233.05,
+          "national_score": 237,
+          "at_or_above_proficient": 35,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 43,
+          "proficiency_rank": 41,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219CA4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 269,
+          "score_exact": 268.78,
+          "national_score": 272,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 36,
+          "proficiency_rank": 29,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219CA8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 212,
+          "score_exact": 211.74,
+          "national_score": 214,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 39,
+          "proficiency_rank": 35,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220CA4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 254,
+          "score_exact": 254.37,
+          "national_score": 257,
+          "at_or_above_proficient": 28,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 38,
+          "proficiency_rank": 27,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220CA8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Colorado",
+      "abbreviation": "CO",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 239,
+          "score_exact": 239.13,
+          "national_score": 237,
+          "at_or_above_proficient": 42,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 17,
+          "proficiency_rank": 17,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219CO4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 278,
+          "score_exact": 278.11,
+          "national_score": 272,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 14,
+          "proficiency_rank": 8,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219CO8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 221,
+          "score_exact": 220.92,
+          "national_score": 214,
+          "at_or_above_proficient": 36,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 5,
+          "proficiency_rank": 7,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220CO4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 265,
+          "score_exact": 264.54,
+          "national_score": 257,
+          "at_or_above_proficient": 35,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 3,
+          "proficiency_rank": 4,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220CO8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Connecticut",
+      "abbreviation": "CT",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 239,
+          "score_exact": 239.07,
+          "national_score": 237,
+          "at_or_above_proficient": 42,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 18,
+          "proficiency_rank": 15,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219CT4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 277,
+          "score_exact": 276.67,
+          "national_score": 272,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 17,
+          "proficiency_rank": 13,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219CT8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 219,
+          "score_exact": 219.16,
+          "national_score": 214,
+          "at_or_above_proficient": 36,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 8,
+          "proficiency_rank": 5,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220CT4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 263,
+          "score_exact": 263.1,
+          "national_score": 257,
+          "at_or_above_proficient": 35,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 5,
+          "proficiency_rank": 3,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220CT8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Delaware",
+      "abbreviation": "DE",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 233,
+          "score_exact": 233.19,
+          "national_score": 237,
+          "at_or_above_proficient": 35,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 41,
+          "proficiency_rank": 40,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219DE4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 263,
+          "score_exact": 263.06,
+          "national_score": 272,
+          "at_or_above_proficient": 19,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 47,
+          "proficiency_rank": 47,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219DE8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 210,
+          "score_exact": 209.53,
+          "national_score": 214,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 43,
+          "proficiency_rank": 44,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220DE4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 249,
+          "score_exact": 249.45,
+          "national_score": 257,
+          "at_or_above_proficient": 23,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 47,
+          "proficiency_rank": 45,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220DE8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Florida",
+      "abbreviation": "FL",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 243,
+          "score_exact": 243.4,
+          "national_score": 237,
+          "at_or_above_proficient": 45,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 2,
+          "proficiency_rank": 4,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219FL4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 267,
+          "score_exact": 267.24,
+          "national_score": 272,
+          "at_or_above_proficient": 21,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 41,
+          "proficiency_rank": 42,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219FL8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 218,
+          "score_exact": 218.22,
+          "national_score": 214,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 10,
+          "proficiency_rank": 10,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220FL4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 253,
+          "score_exact": 252.86,
+          "national_score": 257,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 43,
+          "proficiency_rank": 38,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220FL8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Georgia",
+      "abbreviation": "GA",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 236,
+          "score_exact": 236.11,
+          "national_score": 237,
+          "at_or_above_proficient": 38,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 32,
+          "proficiency_rank": 32,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219GA4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 269,
+          "score_exact": 268.66,
+          "national_score": 272,
+          "at_or_above_proficient": 24,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 37,
+          "proficiency_rank": 37,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219GA8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 214,
+          "score_exact": 214.36,
+          "national_score": 214,
+          "at_or_above_proficient": 30,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 28,
+          "proficiency_rank": 28,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220GA4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 259,
+          "score_exact": 259.33,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 17,
+          "proficiency_rank": 12,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220GA8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Hawaii",
+      "abbreviation": "HI",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 239,
+          "score_exact": 239.28,
+          "national_score": 237,
+          "at_or_above_proficient": 42,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 14,
+          "proficiency_rank": 13,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219HI4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 270,
+          "score_exact": 270.04,
+          "national_score": 272,
+          "at_or_above_proficient": 23,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 30,
+          "proficiency_rank": 38,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219HI8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 215.79,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 16,
+          "proficiency_rank": 22,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220HI4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 257,
+          "score_exact": 257.28,
+          "national_score": 257,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 25,
+          "proficiency_rank": 23,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220HI8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Idaho",
+      "abbreviation": "ID",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 238,
+          "score_exact": 238.39,
+          "national_score": 237,
+          "at_or_above_proficient": 41,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 21,
+          "proficiency_rank": 20,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219ID4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 278,
+          "score_exact": 278.1,
+          "national_score": 272,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 15,
+          "proficiency_rank": 16,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219ID8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 215.66,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 19,
+          "proficiency_rank": 19,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220ID4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 261,
+          "score_exact": 260.73,
+          "national_score": 257,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 9,
+          "proficiency_rank": 9,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220ID8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Illinois",
+      "abbreviation": "IL",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 236,
+          "score_exact": 236.08,
+          "national_score": 237,
+          "at_or_above_proficient": 38,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 33,
+          "proficiency_rank": 30,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219IL4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 277,
+          "score_exact": 277.42,
+          "national_score": 272,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 16,
+          "proficiency_rank": 9,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219IL8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 214,
+          "score_exact": 214.25,
+          "national_score": 214,
+          "at_or_above_proficient": 30,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 29,
+          "proficiency_rank": 29,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220IL4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 262,
+          "score_exact": 261.62,
+          "national_score": 257,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 7,
+          "proficiency_rank": 8,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220IL8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Indiana",
+      "abbreviation": "IN",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 240,
+          "score_exact": 240.31,
+          "national_score": 237,
+          "at_or_above_proficient": 43,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 9,
+          "proficiency_rank": 7,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219IN4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 278,
+          "score_exact": 278.19,
+          "national_score": 272,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 13,
+          "proficiency_rank": 17,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219IN8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 220,
+          "score_exact": 220.14,
+          "national_score": 214,
+          "at_or_above_proficient": 34,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 6,
+          "proficiency_rank": 8,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220IN4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 262,
+          "score_exact": 261.66,
+          "national_score": 257,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 6,
+          "proficiency_rank": 6,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220IN8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Iowa",
+      "abbreviation": "IA",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 237,
+          "score_exact": 237.04,
+          "national_score": 237,
+          "at_or_above_proficient": 39,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 30,
+          "proficiency_rank": 27,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219IA4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 275,
+          "score_exact": 274.82,
+          "national_score": 272,
+          "at_or_above_proficient": 27,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 23,
+          "proficiency_rank": 24,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219IA8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 215,
+          "score_exact": 214.63,
+          "national_score": 214,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 26,
+          "proficiency_rank": 33,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220IA4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 261,
+          "score_exact": 260.7,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 10,
+          "proficiency_rank": 15,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220IA8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Kansas",
+      "abbreviation": "KS",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 237,
+          "score_exact": 237.2,
+          "national_score": 237,
+          "at_or_above_proficient": 40,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 29,
+          "proficiency_rank": 26,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219KS4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 274,
+          "score_exact": 274.14,
+          "national_score": 272,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 24,
+          "proficiency_rank": 25,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219KS8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 213,
+          "score_exact": 213.12,
+          "national_score": 214,
+          "at_or_above_proficient": 28,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 35,
+          "proficiency_rank": 36,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220KS4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 255,
+          "score_exact": 255.49,
+          "national_score": 257,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 31,
+          "proficiency_rank": 40,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220KS8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "abbreviation": "KY",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 238,
+          "score_exact": 237.81,
+          "national_score": 237,
+          "at_or_above_proficient": 38,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 25,
+          "proficiency_rank": 28,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219KY4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 271,
+          "score_exact": 270.81,
+          "national_score": 272,
+          "at_or_above_proficient": 24,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 28,
+          "proficiency_rank": 32,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219KY8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 218,
+          "score_exact": 218.03,
+          "national_score": 214,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 11,
+          "proficiency_rank": 12,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220KY4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 258,
+          "score_exact": 258,
+          "national_score": 257,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 22,
+          "proficiency_rank": 26,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220KY8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "abbreviation": "LA",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 235,
+          "score_exact": 234.55,
+          "national_score": 237,
+          "at_or_above_proficient": 35,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 37,
+          "proficiency_rank": 42,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219LA4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 267,
+          "score_exact": 266.78,
+          "national_score": 272,
+          "at_or_above_proficient": 21,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 42,
+          "proficiency_rank": 43,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219LA8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 215.98,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 15,
+          "proficiency_rank": 20,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220LA4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 257,
+          "score_exact": 256.53,
+          "national_score": 257,
+          "at_or_above_proficient": 27,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 28,
+          "proficiency_rank": 30,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220LA8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Maine",
+      "abbreviation": "ME",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 233,
+          "score_exact": 233.13,
+          "national_score": 237,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 42,
+          "proficiency_rank": 45,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219ME4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 273,
+          "score_exact": 272.62,
+          "national_score": 272,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 26,
+          "proficiency_rank": 31,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219ME8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 210,
+          "score_exact": 209.6,
+          "national_score": 214,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 42,
+          "proficiency_rank": 46,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220ME4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 255,
+          "score_exact": 255.04,
+          "national_score": 257,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 34,
+          "proficiency_rank": 34,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220ME8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Maryland",
+      "abbreviation": "MD",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 234,
+          "score_exact": 234.09,
+          "national_score": 237,
+          "at_or_above_proficient": 37,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 39,
+          "proficiency_rank": 33,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MD4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 268,
+          "score_exact": 268.21,
+          "national_score": 272,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 38,
+          "proficiency_rank": 30,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MD8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 215.64,
+          "national_score": 214,
+          "at_or_above_proficient": 34,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 20,
+          "proficiency_rank": 9,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MD4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 258,
+          "score_exact": 258.32,
+          "national_score": 257,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 21,
+          "proficiency_rank": 7,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MD8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Massachusetts",
+      "abbreviation": "MA",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 246,
+          "score_exact": 246.49,
+          "national_score": 237,
+          "at_or_above_proficient": 51,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 1,
+          "proficiency_rank": 1,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MA4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 283,
+          "score_exact": 283.47,
+          "national_score": 272,
+          "at_or_above_proficient": 37,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 1,
+          "proficiency_rank": 1,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MA8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 225,
+          "score_exact": 224.78,
+          "national_score": 214,
+          "at_or_above_proficient": 40,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 1,
+          "proficiency_rank": 1,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MA4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 268,
+          "score_exact": 268.01,
+          "national_score": 257,
+          "at_or_above_proficient": 40,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 1,
+          "proficiency_rank": 1,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MA8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Michigan",
+      "abbreviation": "MI",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 235,
+          "score_exact": 235.22,
+          "national_score": 237,
+          "at_or_above_proficient": 37,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 34,
+          "proficiency_rank": 34,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MI4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 270,
+          "score_exact": 269.98,
+          "national_score": 272,
+          "at_or_above_proficient": 24,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 31,
+          "proficiency_rank": 33,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MI8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 209,
+          "score_exact": 209.14,
+          "national_score": 214,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 45,
+          "proficiency_rank": 48,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MI4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 255,
+          "score_exact": 255.06,
+          "national_score": 257,
+          "at_or_above_proficient": 24,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 33,
+          "proficiency_rank": 44,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MI8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Minnesota",
+      "abbreviation": "MN",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 241,
+          "score_exact": 240.66,
+          "national_score": 237,
+          "at_or_above_proficient": 45,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 7,
+          "proficiency_rank": 5,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MN4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 282,
+          "score_exact": 282.09,
+          "national_score": 272,
+          "at_or_above_proficient": 34,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 3,
+          "proficiency_rank": 5,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MN8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 214,
+          "score_exact": 214.44,
+          "national_score": 214,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 27,
+          "proficiency_rank": 26,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MN4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 260,
+          "score_exact": 260.07,
+          "national_score": 257,
+          "at_or_above_proficient": 28,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 14,
+          "proficiency_rank": 28,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MN8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Mississippi",
+      "abbreviation": "MS",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 239,
+          "score_exact": 239.18,
+          "national_score": 237,
+          "at_or_above_proficient": 38,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 16,
+          "proficiency_rank": 31,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MS4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 269,
+          "score_exact": 269.06,
+          "national_score": 272,
+          "at_or_above_proficient": 22,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 35,
+          "proficiency_rank": 40,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MS8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 219,
+          "score_exact": 218.5,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 9,
+          "proficiency_rank": 17,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MS4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 253,
+          "score_exact": 253.47,
+          "national_score": 257,
+          "at_or_above_proficient": 23,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 41,
+          "proficiency_rank": 46,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MS8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Missouri",
+      "abbreviation": "MO",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 235,
+          "score_exact": 235,
+          "national_score": 237,
+          "at_or_above_proficient": 36,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 35,
+          "proficiency_rank": 37,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MO4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 270,
+          "score_exact": 270.36,
+          "national_score": 272,
+          "at_or_above_proficient": 23,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 29,
+          "proficiency_rank": 39,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MO8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 212,
+          "score_exact": 211.9,
+          "national_score": 214,
+          "at_or_above_proficient": 27,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 38,
+          "proficiency_rank": 42,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MO4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 255,
+          "score_exact": 255.28,
+          "national_score": 257,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 32,
+          "proficiency_rank": 33,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MO8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Montana",
+      "abbreviation": "MT",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 238,
+          "score_exact": 238.47,
+          "national_score": 237,
+          "at_or_above_proficient": 40,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 20,
+          "proficiency_rank": 21,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MT4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 279,
+          "score_exact": 279.08,
+          "national_score": 272,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 10,
+          "proficiency_rank": 10,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219MT8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 217,
+          "score_exact": 217.21,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 12,
+          "proficiency_rank": 18,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MT4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 261,
+          "score_exact": 260.53,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 11,
+          "proficiency_rank": 13,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220MT8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Nebraska",
+      "abbreviation": "NE",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 238,
+          "score_exact": 238.2,
+          "national_score": 237,
+          "at_or_above_proficient": 40,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 22,
+          "proficiency_rank": 24,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NE4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 280,
+          "score_exact": 279.88,
+          "national_score": 272,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 7,
+          "proficiency_rank": 7,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NE8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 212,
+          "score_exact": 211.71,
+          "national_score": 214,
+          "at_or_above_proficient": 28,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 40,
+          "proficiency_rank": 40,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NE4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 256,
+          "score_exact": 256.13,
+          "national_score": 257,
+          "at_or_above_proficient": 27,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 30,
+          "proficiency_rank": 29,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NE8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Nevada",
+      "abbreviation": "NV",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 233,
+          "score_exact": 233.24,
+          "national_score": 237,
+          "at_or_above_proficient": 36,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 40,
+          "proficiency_rank": 38,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NV4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 265,
+          "score_exact": 265.18,
+          "national_score": 272,
+          "at_or_above_proficient": 20,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 44,
+          "proficiency_rank": 44,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NV8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 213,
+          "score_exact": 213.14,
+          "national_score": 214,
+          "at_or_above_proficient": 30,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 34,
+          "proficiency_rank": 31,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NV4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 253,
+          "score_exact": 253.29,
+          "national_score": 257,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 42,
+          "proficiency_rank": 35,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NV8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "New Hampshire",
+      "abbreviation": "NH",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 242,
+          "score_exact": 241.56,
+          "national_score": 237,
+          "at_or_above_proficient": 43,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 4,
+          "proficiency_rank": 11,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NH4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 280,
+          "score_exact": 279.74,
+          "national_score": 272,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 9,
+          "proficiency_rank": 12,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NH8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 221,
+          "score_exact": 221.48,
+          "national_score": 214,
+          "at_or_above_proficient": 36,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 4,
+          "proficiency_rank": 4,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NH4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 264,
+          "score_exact": 263.91,
+          "national_score": 257,
+          "at_or_above_proficient": 34,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 4,
+          "proficiency_rank": 5,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NH8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "New Jersey",
+      "abbreviation": "NJ",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 240,
+          "score_exact": 240.14,
+          "national_score": 237,
+          "at_or_above_proficient": 44,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 10,
+          "proficiency_rank": 6,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NJ4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 282,
+          "score_exact": 281.68,
+          "national_score": 272,
+          "at_or_above_proficient": 37,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 5,
+          "proficiency_rank": 2,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NJ8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 222,
+          "score_exact": 221.64,
+          "national_score": 214,
+          "at_or_above_proficient": 38,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 3,
+          "proficiency_rank": 2,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NJ4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 266,
+          "score_exact": 265.96,
+          "national_score": 257,
+          "at_or_above_proficient": 38,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 2,
+          "proficiency_rank": 2,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NJ8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "New Mexico",
+      "abbreviation": "NM",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 224,
+          "score_exact": 223.85,
+          "national_score": 237,
+          "at_or_above_proficient": 23,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 51,
+          "proficiency_rank": 51,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NM4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 256,
+          "score_exact": 256.21,
+          "national_score": 272,
+          "at_or_above_proficient": 14,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 51,
+          "proficiency_rank": 51,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NM8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 201,
+          "score_exact": 200.64,
+          "national_score": 214,
+          "at_or_above_proficient": 20,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 51,
+          "proficiency_rank": 51,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NM4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 245,
+          "score_exact": 245.06,
+          "national_score": 257,
+          "at_or_above_proficient": 19,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 51,
+          "proficiency_rank": 51,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NM8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "New York",
+      "abbreviation": "NY",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 234,
+          "score_exact": 234.16,
+          "national_score": 237,
+          "at_or_above_proficient": 37,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 38,
+          "proficiency_rank": 36,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NY4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 271,
+          "score_exact": 270.85,
+          "national_score": 272,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 27,
+          "proficiency_rank": 26,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NY8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 215,
+          "score_exact": 214.63,
+          "national_score": 214,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 25,
+          "proficiency_rank": 24,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NY4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 257,
+          "score_exact": 256.87,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 27,
+          "proficiency_rank": 17,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NY8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "abbreviation": "NC",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 239,
+          "score_exact": 238.86,
+          "national_score": 237,
+          "at_or_above_proficient": 41,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 19,
+          "proficiency_rank": 19,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NC4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 276,
+          "score_exact": 275.82,
+          "national_score": 272,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 20,
+          "proficiency_rank": 14,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219NC8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 213,
+          "score_exact": 213.35,
+          "national_score": 214,
+          "at_or_above_proficient": 30,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 32,
+          "proficiency_rank": 30,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NC4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 255,
+          "score_exact": 254.9,
+          "national_score": 257,
+          "at_or_above_proficient": 27,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 35,
+          "proficiency_rank": 32,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220NC8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "North Dakota",
+      "abbreviation": "ND",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 241,
+          "score_exact": 241.28,
+          "national_score": 237,
+          "at_or_above_proficient": 43,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 6,
+          "proficiency_rank": 8,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219ND4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 280,
+          "score_exact": 279.77,
+          "national_score": 272,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 8,
+          "proficiency_rank": 21,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219ND8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 215.51,
+          "national_score": 214,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 21,
+          "proficiency_rank": 34,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220ND4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 257,
+          "score_exact": 257.39,
+          "national_score": 257,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 24,
+          "proficiency_rank": 42,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220ND8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Ohio",
+      "abbreviation": "OH",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 239,
+          "score_exact": 239.42,
+          "national_score": 237,
+          "at_or_above_proficient": 43,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 13,
+          "proficiency_rank": 10,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219OH4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 279,
+          "score_exact": 278.81,
+          "national_score": 272,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 11,
+          "proficiency_rank": 11,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219OH8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 215.99,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 14,
+          "proficiency_rank": 15,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220OH4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 260,
+          "score_exact": 260.42,
+          "national_score": 257,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 12,
+          "proficiency_rank": 10,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220OH8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "abbreviation": "OK",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 233,
+          "score_exact": 232.56,
+          "national_score": 237,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 44,
+          "proficiency_rank": 46,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219OK4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 264,
+          "score_exact": 264.45,
+          "national_score": 272,
+          "at_or_above_proficient": 17,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 45,
+          "proficiency_rank": 50,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219OK8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 207,
+          "score_exact": 207.26,
+          "national_score": 214,
+          "at_or_above_proficient": 23,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 47,
+          "proficiency_rank": 49,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220OK4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 249,
+          "score_exact": 248.79,
+          "national_score": 257,
+          "at_or_above_proficient": 20,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 48,
+          "proficiency_rank": 50,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220OK8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Oregon",
+      "abbreviation": "OR",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 229,
+          "score_exact": 228.69,
+          "national_score": 237,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 49,
+          "proficiency_rank": 49,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219OR4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 268,
+          "score_exact": 267.94,
+          "national_score": 272,
+          "at_or_above_proficient": 24,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 40,
+          "proficiency_rank": 34,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219OR8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 207,
+          "score_exact": 206.97,
+          "national_score": 214,
+          "at_or_above_proficient": 27,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 48,
+          "proficiency_rank": 43,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220OR4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 255,
+          "score_exact": 254.83,
+          "national_score": 257,
+          "at_or_above_proficient": 27,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 36,
+          "proficiency_rank": 31,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220OR8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "abbreviation": "PA",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 238,
+          "score_exact": 238.18,
+          "national_score": 237,
+          "at_or_above_proficient": 41,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 23,
+          "proficiency_rank": 18,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219PA4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 276,
+          "score_exact": 276.25,
+          "national_score": 272,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 18,
+          "proficiency_rank": 15,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219PA8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 215.76,
+          "national_score": 214,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 17,
+          "proficiency_rank": 11,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220PA4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 259,
+          "score_exact": 259.15,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 19,
+          "proficiency_rank": 18,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220PA8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Rhode Island",
+      "abbreviation": "RI",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 237,
+          "score_exact": 237.29,
+          "national_score": 237,
+          "at_or_above_proficient": 38,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 28,
+          "proficiency_rank": 29,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219RI4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 270,
+          "score_exact": 269.83,
+          "national_score": 272,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 32,
+          "proficiency_rank": 27,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219RI8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 216.3,
+          "national_score": 214,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 13,
+          "proficiency_rank": 13,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220RI4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 258,
+          "score_exact": 257.77,
+          "national_score": 257,
+          "at_or_above_proficient": 30,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 23,
+          "proficiency_rank": 20,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220RI8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "abbreviation": "SC",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 238,
+          "score_exact": 237.65,
+          "national_score": 237,
+          "at_or_above_proficient": 40,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 26,
+          "proficiency_rank": 23,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219SC4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 268,
+          "score_exact": 268.01,
+          "national_score": 272,
+          "at_or_above_proficient": 24,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 39,
+          "proficiency_rank": 35,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219SC8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 215,
+          "score_exact": 214.91,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 24,
+          "proficiency_rank": 14,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220SC4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 254,
+          "score_exact": 253.69,
+          "national_score": 257,
+          "at_or_above_proficient": 26,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 40,
+          "proficiency_rank": 36,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220SC8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "abbreviation": "SD",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 240,
+          "score_exact": 239.88,
+          "national_score": 237,
+          "at_or_above_proficient": 42,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 11,
+          "proficiency_rank": 12,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219SD4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 281,
+          "score_exact": 281.1,
+          "national_score": 272,
+          "at_or_above_proficient": 33,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 6,
+          "proficiency_rank": 6,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219SD8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 214,
+          "score_exact": 214.05,
+          "national_score": 214,
+          "at_or_above_proficient": 28,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 31,
+          "proficiency_rank": 39,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220SD4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 260,
+          "score_exact": 259.89,
+          "national_score": 257,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 16,
+          "proficiency_rank": 25,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220SD8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "abbreviation": "TN",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 240,
+          "score_exact": 239.62,
+          "national_score": 237,
+          "at_or_above_proficient": 42,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 12,
+          "proficiency_rank": 16,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219TN4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 276,
+          "score_exact": 275.98,
+          "national_score": 272,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 19,
+          "proficiency_rank": 18,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219TN8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 215,
+          "score_exact": 215.06,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 23,
+          "proficiency_rank": 21,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220TN4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 259,
+          "score_exact": 258.97,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 20,
+          "proficiency_rank": 16,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220TN8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Texas",
+      "abbreviation": "TX",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 241,
+          "score_exact": 240.51,
+          "national_score": 237,
+          "at_or_above_proficient": 43,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 8,
+          "proficiency_rank": 9,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219TX4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 269,
+          "score_exact": 269.39,
+          "national_score": 272,
+          "at_or_above_proficient": 24,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 34,
+          "proficiency_rank": 36,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219TX8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 212,
+          "score_exact": 211.92,
+          "national_score": 214,
+          "at_or_above_proficient": 28,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 37,
+          "proficiency_rank": 41,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220TX4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 252,
+          "score_exact": 252.27,
+          "national_score": 257,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 44,
+          "proficiency_rank": 41,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220TX8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Utah",
+      "abbreviation": "UT",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 242,
+          "score_exact": 241.54,
+          "national_score": 237,
+          "at_or_above_proficient": 45,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 5,
+          "proficiency_rank": 3,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219UT4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 282,
+          "score_exact": 281.79,
+          "national_score": 272,
+          "at_or_above_proficient": 35,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 4,
+          "proficiency_rank": 4,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219UT8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 219,
+          "score_exact": 219.32,
+          "national_score": 214,
+          "at_or_above_proficient": 36,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 7,
+          "proficiency_rank": 3,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220UT4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 261,
+          "score_exact": 261.19,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 8,
+          "proficiency_rank": 11,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220UT8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Vermont",
+      "abbreviation": "VT",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 235,
+          "score_exact": 234.85,
+          "national_score": 237,
+          "at_or_above_proficient": 36,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 36,
+          "proficiency_rank": 39,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219VT4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 276,
+          "score_exact": 275.62,
+          "national_score": 272,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 21,
+          "proficiency_rank": 23,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219VT8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 213,
+          "score_exact": 212.69,
+          "national_score": 214,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 36,
+          "proficiency_rank": 27,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220VT4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 257,
+          "score_exact": 257.28,
+          "national_score": 257,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 26,
+          "proficiency_rank": 22,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220VT8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Virginia",
+      "abbreviation": "VA",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 238,
+          "score_exact": 237.87,
+          "national_score": 237,
+          "at_or_above_proficient": 40,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 24,
+          "proficiency_rank": 22,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219VA4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 275,
+          "score_exact": 274.99,
+          "national_score": 272,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 22,
+          "proficiency_rank": 22,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219VA8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 214,
+          "score_exact": 214.11,
+          "national_score": 214,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 30,
+          "proficiency_rank": 25,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220VA4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 256,
+          "score_exact": 256.26,
+          "national_score": 257,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 29,
+          "proficiency_rank": 24,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220VA8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Washington",
+      "abbreviation": "WA",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 238,
+          "score_exact": 237.59,
+          "national_score": 237,
+          "at_or_above_proficient": 40,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 27,
+          "proficiency_rank": 25,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219WA4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 274,
+          "score_exact": 273.67,
+          "national_score": 272,
+          "at_or_above_proficient": 30,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 25,
+          "proficiency_rank": 20,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219WA8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 216,
+          "score_exact": 215.72,
+          "national_score": 214,
+          "at_or_above_proficient": 32,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 18,
+          "proficiency_rank": 16,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220WA4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 259,
+          "score_exact": 259.27,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 18,
+          "proficiency_rank": 19,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220WA8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "West Virginia",
+      "abbreviation": "WV",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 232,
+          "score_exact": 231.51,
+          "national_score": 237,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 46,
+          "proficiency_rank": 48,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219WV4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 261,
+          "score_exact": 260.77,
+          "national_score": 272,
+          "at_or_above_proficient": 18,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 50,
+          "proficiency_rank": 49,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219WV8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 206,
+          "score_exact": 205.87,
+          "national_score": 214,
+          "at_or_above_proficient": 25,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 49,
+          "proficiency_rank": 47,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220WV4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 247,
+          "score_exact": 247.36,
+          "national_score": 257,
+          "at_or_above_proficient": 21,
+          "national_comparison": "Significantly lower than National public",
+          "score_rank": 49,
+          "proficiency_rank": 49,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220WV8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Wisconsin",
+      "abbreviation": "WI",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 239,
+          "score_exact": 239.25,
+          "national_score": 237,
+          "at_or_above_proficient": 42,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 15,
+          "proficiency_rank": 14,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219WI4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 283,
+          "score_exact": 282.65,
+          "national_score": 272,
+          "at_or_above_proficient": 37,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 2,
+          "proficiency_rank": 3,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219WI8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 215,
+          "score_exact": 215.32,
+          "national_score": 214,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 22,
+          "proficiency_rank": 23,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220WI4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 260,
+          "score_exact": 260.09,
+          "national_score": 257,
+          "at_or_above_proficient": 31,
+          "national_comparison": "Not statistically different from National public",
+          "score_rank": 13,
+          "proficiency_rank": 14,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220WI8.pdf"
+        }
+      ]
+    },
+    {
+      "state": "Wyoming",
+      "abbreviation": "WY",
+      "metrics": [
+        {
+          "subject": "Mathematics",
+          "grade": "4",
+          "score": 243,
+          "score_exact": 243.4,
+          "national_score": 237,
+          "at_or_above_proficient": 46,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 3,
+          "proficiency_rank": 2,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219WY4.pdf"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "8",
+          "score": 278,
+          "score_exact": 278.32,
+          "national_score": 272,
+          "at_or_above_proficient": 30,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 12,
+          "proficiency_rank": 19,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219WY8.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "4",
+          "score": 222,
+          "score_exact": 221.94,
+          "national_score": 214,
+          "at_or_above_proficient": 36,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 2,
+          "proficiency_rank": 6,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220WY4.pdf"
+        },
+        {
+          "subject": "Reading",
+          "grade": "8",
+          "score": 260,
+          "score_exact": 259.97,
+          "national_score": 257,
+          "at_or_above_proficient": 29,
+          "national_comparison": "Significantly higher than National public",
+          "score_rank": 15,
+          "proficiency_rank": 21,
+          "comparison_count": 51,
+          "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220WY8.pdf"
+        }
+      ]
+    }
+  ]
+}

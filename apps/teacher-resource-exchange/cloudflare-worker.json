@@ -1,0 +1,29 @@
+{
+  "name": "kmdm-teachers",
+  "account_id": "531c80b9991aad5e85f9d13f4d7de64e",
+  "main": "vinext/server/fetch-handler",
+  "compatibility_date": "2026-10-14",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "workers_dev": true,
+  "observability": {
+    "enabled": true,
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 0.1
+    }
+  },
+  "assets": {
+    "binding": "ASSETS",
+    "not_found_handling": "none"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "kmdm-teachers",
+      "database_id": "ed2b4e6d-2216-4a4b-b570-f78284dc4a15",
+      "migrations_dir": "drizzle"
+    }
+  ]
+}

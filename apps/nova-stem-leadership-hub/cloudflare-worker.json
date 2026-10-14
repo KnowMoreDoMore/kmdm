@@ -1,0 +1,21 @@
+{
+  "name": "kmdm-stem",
+  "account_id": "531c80b9991aad5e85f9d13f4d7de64e",
+  "main": "vinext/server/fetch-handler",
+  "compatibility_date": "2026-10-14",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "workers_dev": true,
+  "observability": {
+    "enabled": true,
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 0.1
+    }
+  },
+  "assets": {
+    "binding": "ASSETS",
+    "not_found_handling": "none"
+  }
+}

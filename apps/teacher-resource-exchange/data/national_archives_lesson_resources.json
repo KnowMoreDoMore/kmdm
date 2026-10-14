@@ -1,0 +1,3965 @@
+{
+  "as_of": "2026-09-28",
+  "provider": "National Archives and Records Administration",
+  "source_url": "https://www.archives.gov/education/teaching-with-documents",
+  "official_indexes": [
+    {
+      "era": "Revolution and the New Nation (1754–1820s)",
+      "url": "https://www.archives.gov/education/lessons/revolution-new-nation.html"
+    },
+    {
+      "era": "Expansion and Reform (1801–1868)",
+      "url": "https://www.archives.gov/education/lessons/expansion-reform.html"
+    },
+    {
+      "era": "Civil War and Reconstruction (1850–1877)",
+      "url": "https://www.archives.gov/education/lessons/civil-war-reconstruction.html"
+    },
+    {
+      "era": "Development of the Industrial United States (1870–1900)",
+      "url": "https://www.archives.gov/education/lessons/industrial-us.html"
+    },
+    {
+      "era": "Emergence of Modern America (1890–1930)",
+      "url": "https://www.archives.gov/education/lessons/modern-america.html"
+    },
+    {
+      "era": "Great Depression and World War II (1929–1945)",
+      "url": "https://www.archives.gov/education/lessons/depression-wwii.html"
+    },
+    {
+      "era": "Postwar United States (1945–early 1970s)",
+      "url": "https://www.archives.gov/education/lessons/postwar-us.html"
+    },
+    {
+      "era": "Contemporary United States (1968–present)",
+      "url": "https://www.archives.gov/education/lessons/contemporary-us.html"
+    }
+  ],
+  "verification": "Every record was discovered from an official National Archives era index and its destination returned successfully on 2026-09-28. Inactive official index links were excluded.",
+  "inactive_pages": [
+    {
+      "title": "Court Documents Related to Segregation in Public Facilities and Schools",
+      "url": "https://www.archives.gov/education/lessons/segregation-public-facilities/",
+      "status": 404
+    }
+  ],
+  "records": [
+    {
+      "id": "nara-teaching-documents-day-of-infamy",
+      "title": "A Date Which Will Live in Infamy",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)",
+        "Civics",
+        "Military history"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "The First Typed Draft of Franklin D. Roosevelt's War Address Background Early in the afternoon of December 7, 1941, President Franklin D. Roosevelt and his chief foreign policy aide, Harry Hopkins, were interrupted by a telephone call from Secretary of War Henry Stimson and told that the Japanese had attacked Pearl Harbor. At about 5:00 p.m., following meetings with his…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/day-of-infamy",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-chinese-boycott",
+      "title": "Affidavit and Flyers from the Chinese Boycott Case",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Development of the Industrial United States (1870–1900)",
+        "Immigration and migration"
+      ],
+      "keywords": [
+        "Development of the Industrial United States (1870–1900)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Although a very small number of Chinese immigrants came to the United States prior to 1850, it wasn't until news of the gold strikes in California reached China that large numbers of Chinese men, eager to earn money, sailed for \"Gum San,\" or the \"gold mountain.\" Western encroachment and civil unrest had led to inflation, starvation, and loss of land in southern…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/chinese-boycott",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-telephone-light-patents",
+      "title": "Alexander Graham Bell's Patent for the Telephone and Thomas Edison's Patent for the Electric Lamp",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Science",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Development of the Industrial United States (1870–1900)",
+        "Industry and labor",
+        "Invention and technology"
+      ],
+      "keywords": [
+        "Development of the Industrial United States (1870–1900)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background In 1876 Americans held a Centennial Exhibition in Philadelphia to celebrate the nation's birth 100 years earlier. It was the first world's fair to be held in the United States, and it announced for all to see that the nation had come of age as an industrial power. Over 8 million Americans attended, many traveling the railways that now spanned the continent. Of all…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/telephone-light-patents",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-rosa-parks",
+      "title": "An Act of Courage, The Arrest Records of Rosa Parks",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civil rights",
+        "Women's history"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "On December 1, 1955, during a typical evening rush hour in Montgomery, Alabama, a 42-year-old woman took a seat on the bus on her way home from the Montgomery Fair department store where she worked as a seamstress. Before she reached her destination, she quietly set off a social revolution when the bus driver instructed her to move back, and she refused. Rosa Parks, an African…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/rosa-parks",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-anti-rail",
+      "title": "Anti-Railroad Propaganda Poster: The Growth of Regionalism, 1800-1860",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Industry and labor",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Did you ever wonder why people from Chicago call carbonated water \"pop\" while New Yorkers call it \"soda\"? Or why Southerners tease Northerners for talking too fast, driving too fast, and even eating too fast? Well, the United States has always had regional differences. Today, the regions may be difficult to draw a line around, but from 1800 to 1860, those lines…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/anti-rail",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-brown-v-board",
+      "title": "Brown v. Board of Education",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civics",
+        "Civil rights",
+        "Military history"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "The Supreme Court's opinion in the Brown v. Board of Education case of 1954 legally ended decades of racial segregation in America's public schools. Chief Justice Earl Warren delivered the unanimous ruling in the landmark civil rights case. State-sanctioned segregation of public schools was a violation of the 14th Amendment and was therefore unconstitutional. This historic…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/brown-v-board",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-constitution-workshop",
+      "title": "Constitution Workshop",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "Civics"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "What does the light bulb have to do with the U.S. Constitution? Or the board game \"Monopoly\"? How about the letter you wrote to the President when you were in elementary school? The answer to all three questions is: Plenty! – if you know your Constitution. Our Constitution workshop is available as an online or on-paper activity. In both versions, students will analyze primary…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/constitution-workshop",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-separation-powers",
+      "title": "Constitutional Issues: Separation of Powers",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)",
+        "Civics"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background It is safe to say that a respect for the principle of separation of powers is deeply ingrained in every American. The nation subscribes to the original premise of the framers of the Constitution that the way to safeguard against tyranny is to separate the powers of government among three branches so that each branch checks the other two. Even when this system…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/separation-powers",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-watergate-constitution",
+      "title": "Constitutional Issues: Watergate and the Constitution",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Contemporary United States (1968–present)",
+        "Civics"
+      ],
+      "keywords": [
+        "Contemporary United States (1968–present)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background When Richard Nixon resigned in 1974 in the wake of the Watergate scandal, it was only the second time in our history that impeachment of a President had been considered. Nearly every action taken with regard to the case had some constitutional significance. The document shown here deals with a specific question: Should the Watergate Special Prosecutor seek an…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/watergate-constitution",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-memphis-v-mlk",
+      "title": "Court Documents Related to Martin Luther King, Jr., and Memphis Sanitation Workers",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civil rights"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background The name of Martin Luther King, Jr., is intertwined with the history of the civil rights movement of the 1950s and 1960s in the United States. The Montgomery bus boycott, the freedom rides, the Birmingham campaign, the March on Washington, the Selma march, the Chicago campaign, and the Memphis boycott are some of the more noteworthy battlefields where King and his…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/memphis-v-mlk",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-d-day",
+      "title": "D-Day",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)",
+        "Military history"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "En Español General Dwight D. Eisenhower was appointed the Supreme Allied Commander of the Allied Expeditionary Force during World War II. As leader of all Allied troops in Europe, he led \"Operation Overlord,\" the amphibious invasion of Normandy across the English Channel. Eisenhower faced uncertainty about the operation, but D-Day was a military success, though at a huge cost…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/d-day",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-mendez-case",
+      "title": "Desegregation in Mendez v. Westminster School District",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civil rights"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "En Español The landmark ruling in Mendez v. Westminster, in 1946, prohibited segregation in California’s public schools. The Mendez family joined with others in Orange County, California, to sue four school districts. The case underscored that the struggle for civil rights in America crossed regional, racial, and ethnic lines. Accordion [accordion classes=\"\" id=\"71076\"…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/mendez-case",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-japanese-relocation",
+      "title": "Documents and Photographs Related to Japanese Relocation During World War II",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)",
+        "Civics",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "In his speech to Congress, President Franklin Delano Roosevelt declared that the Japanese attack on Pearl Harbor on December 7, 1941, was \"a date which will live in infamy.\" The attack launched the United States fully into the two theaters of World War II – Europe and the Pacific. Prior to Pearl Harbor, the United States had been involved in a non-combat role, through the…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/japanese-relocation",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-fdr-churchill",
+      "title": "Documents Related to Churchill and FDR",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)",
+        "Civics"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background A close friendship and the excellent working relations that developed between U.S. President Franklin D. Roosevelt and British Prime Minister Winston Churchill were crucial in the establishment of a unified effort to deal with the Axis powers. This working relationship was highlighted by many joint appearances and agreements that not only addressed the immediate…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/fdr-churchill",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-goodale",
+      "title": "Early American Historian?: Laura Goodale's Sampler",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "The Document Sixteen-year-old Laura Goodale, daughter of Chester and Asenath Goodale, stitched this family record with its strawberry and vine border around 1809. Her mother submitted the sampler with her widows pension application as proof of her marriage to Chester Goodale  a Revolutionary War veteran. For her husbands service to his country, Asenath was awarded a pension…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards"
+      ],
+      "standardsNote": "The official lesson names these standards; review its standards section for the exact era, theme, and performance expectations.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/goodale.html",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-cotton-gin-patent",
+      "title": "Eli Whitney's Patent for the Cotton Gin",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Science",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "Invention and technology"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "As Eli Whitney left New England and headed South in 1792, he had no idea that he would patent a machine that would profoundly alter the course of American history. While in the South, Whitney quickly learned that Southern plantation owners were eager for a way to make cotton growing profitable. Whitney knew that if he could invent such a machine, he could apply to the federal…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/cotton-gin-patent",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-fdr-fireside",
+      "title": "FDR's Fireside Chat on the Purposes and Foundations of the Recovery Program",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background When Franklin Delano Roosevelt was elected to the presidency in 1932, it was on a promise to restore the confidence of the American people and to bring America out of the Great Depression. Roosevelt stated in his first inaugural address that \"we have nothing to fear but fear itself.\" His objectives were to calm the economic fears of Americans, develop policies to…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/fdr-fireside",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-fdr-inaugural",
+      "title": "FDR's First Inaugural Address: Declaring \"War\" on the Great Depression",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Mathematics"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)",
+        "Military history"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Declaring \"War\" on the Great Depression Background By late winter 1933, the nation had already endured more than three years of economic depression. Statistics revealing the depth of the Great Depression were staggering. More than 11,000 of 24,000 banks had failed, destroying the savings of depositors. Millions of people were out of work and seeking jobs; additional millions…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/fdr-inaugural",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-peace-corps",
+      "title": "Founding Documents of the Peace Corps",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civics",
+        "International relations"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background The founding of the Peace Corps is one of President John F. Kennedy's most enduring legacies. Yet it got its start in a fortuitous and unexpected moment. Kennedy, arriving late to speak to students at the University of Michigan on October 14, 1960, found himself thronged by a crowd of 10,000 students at 2 o'clock in the morning. Speaking extemporaneously, the…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/peace-corps",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-freedmen",
+      "title": "Freedmen",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Civil War and Reconstruction (1850–1877)",
+        "Civics",
+        "Slavery and emancipation",
+        "Military history"
+      ],
+      "keywords": [
+        "Civil War and Reconstruction (1850–1877)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Español As the Civil War neared its end, Congress established the Bureau of Refugees, Freedmen, and Abandoned Lands — better known as the Freedmen’s Bureau — inside the War Department. The Freedmen's Bureau provided assistance to tens of thousands of formerly enslaved people and impoverished whites in the Southern States and the District of Columbia in the years following the…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/freedmen",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-fugitive-cases",
+      "title": "Fugitive from Labor Cases: Henry Garnett (1850) and Moses Honner (1860)",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Civil War and Reconstruction (1850–1877)",
+        "Slavery and emancipation",
+        "Industry and labor"
+      ],
+      "keywords": [
+        "Civil War and Reconstruction (1850–1877)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background The cases of Henry Garnett and Moses Honner bookend the 1850s, a decade of intensifying political crisis that was deeply connected to the institution of slavery. In both court actions, the defendants were charged with being \"fugitives from labor,\" but, despite numerous similarities, the outcomes of the cases were exactly opposite. Both cases were tried in the Third…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/fugitive-cases",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-fugitive-slaves",
+      "title": "Fugitives from Labor Cases: Lewis Hayden (1851), Edmund Dye (1858), and The Christiana Riot (1851)",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Civil War and Reconstruction (1850–1877)",
+        "Slavery and emancipation",
+        "Industry and labor"
+      ],
+      "keywords": [
+        "Civil War and Reconstruction (1850–1877)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Fugitives from Labor In response to a disagreement between Pennsylvania and Virginia over the extradition of a fugitive slave named John Davis, George Washington signed into law the Fugitive Slave Act 1793. Charging the individual states with the responsibility of returning fugitive slaves, this law proved ineffective because it failed to address the fundamental interstate…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/fugitive-slaves.html",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-barbed-wire",
+      "title": "Glidden's Patent Application for Barbed Wire",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Science",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Development of the Industrial United States (1870–1900)",
+        "Invention and technology"
+      ],
+      "keywords": [
+        "Development of the Industrial United States (1870–1900)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Life in the American West was reshaped by a series of patents for a simple tool that helped ranchers tame the land: barbed wire. Nine patents for improvements to wire fencing were granted by the U.S. Patent Office to American inventors, beginning with Michael Kelly in November 1868 and ending with Joseph Glidden in November 1874. Barbed wire not only simplified the…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/barbed-wire",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-revolution-images",
+      "title": "Images of the American Revolution",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "International relations"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Many factors contributed to the eventual success of the American colonies as they revolted against British rule. American leadership, the timely support of international allies, and international respect and recognition played major roles in the struggle for independence. Several documents and engravings held by the National Archives help to illustrate these…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/revolution-images",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-inaugural-quiz",
+      "title": "Inaugural Quiz!",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Contemporary United States (1968–present)",
+        "Civics"
+      ],
+      "keywords": [
+        "Contemporary United States (1968–present)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "According to the 20th Amendment, ratified in 1933, The terms of the President and the Vice President shall end at noon on the 20th day of January...and the terms of their successors shall then begin. Since 1933, Presidential inaugurations have taken place on January 20th (unless January 20th falls on a Sunday). Following the President's inauguration, documents relating to the…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/inaugural-quiz",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-jackie-robinson",
+      "title": "Jackie Robinson: Beyond the Playing Field",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "[table striped=\"true\" responsive=\"true\"] Background [table striped=\"true\" responsive=\"true\"] To the average man in the average American community, Jackie Robinson was just what the sports pages said he was, no more, no less. He was the first Negro to play baseball in the major leagues. Everybody knew that. . . . In remembering him, I tend to de-emphasize him as a ball…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/jackie-robinson",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-new-us-navy",
+      "title": "Launching the New United States Navy",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "Military history",
+        "International relations"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background The United States won its independence from Great Britain with the signing of the Treaty of Paris in 1783, but freedom of the seas was yet to be achieved. In the years following the Revolutionary War, Barbary pirates preyed on American vessels and held seamen for ransom. As a result of such foreign interference with essential trade, the new country's weak economy…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/new-us-navy",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-ford-nixon-letter",
+      "title": "Letter from House Minority Leader Gerald R. Ford to President Richard M. Nixon",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Contemporary United States (1968–present)",
+        "Civics"
+      ],
+      "keywords": [
+        "Contemporary United States (1968–present)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Letter from House Minority Leader Gerald R. Ford to President Richard M. Nixon Background In the late summer of 1973, Vice President Spiro T. Agnew was under investigation by the U.S. Attorney’s office in Baltimore, Maryland, on charges of extortion, tax fraud, bribery, and conspiracy. In October, he was formally charged with having accepted bribes totaling more than $100,000…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The official lesson names these standards; review its standards section for the exact era, theme, and performance expectations.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/ford-nixon-letter",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-civil-war-docs",
+      "title": "Letters, Telegrams, and Photographs Illustrating Factors that Affected the Civil War",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Civil War and Reconstruction (1850–1877)",
+        "Civics",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Civil War and Reconstruction (1850–1877)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Prior to and during the Civil War, the North and South differed greatly in the resources that they could use. Documents held by the National Archives can aid in the understanding of the factors that influenced the eventual outcome of the War Between the States. After the election of Abraham Lincoln to the presidency in 1860, the states of the southern United States…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/civil-war-docs",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-lincoln-resolutions",
+      "title": "Lincoln's Spot Resolutions",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Civics",
+        "Military history"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Tension has existed between the legislative and the executive branches of the U.S. government over war powers since the Constitution simultaneously vested Congress with the power to declare war and the President with the power of Commander in Chief. Although Jefferson insisted on congressional approval before sending troops into combat, later Presidents have not…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/lincoln-resolutions",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-wilder",
+      "title": "Little House in the Census: Almanzo and Laura Ingalls Wilder",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Mathematics"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Development of the Industrial United States (1870–1900)",
+        "Civics",
+        "Data literacy"
+      ],
+      "keywords": [
+        "Development of the Industrial United States (1870–1900)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Every 10 years since 1790, the U.S. Government has taken a census to enumerate the population so as to apportion seats in the House of Representatives. Census enumerators canvass their districts house-to-house, collecting information about individuals and households on large forms called population schedules. In each decennial census, Americans from the famous to the unsung…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/wilder",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-fed-indian-policy",
+      "title": "Maps of Indian Territory, the Dawes Act, and Will Rogers' Enrollment Case File",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Development of the Industrial United States (1870–1900)",
+        "Indigenous history",
+        "Military history"
+      ],
+      "keywords": [
+        "Development of the Industrial United States (1870–1900)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Federal Indian policy during the period from 1870 to 1900 marked a departure from earlier policies that were dominated by removal, treaties, reservations, and even war. The new policy focused specifically on breaking up reservations by granting land allotments to individual Native Americans. Very sincere individuals reasoned that if a person adopted white clothing…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/fed-indian-policy",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-sputnik-memo",
+      "title": "Memorandum of a Conference with President Eisenhower after Sputnik",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Science",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civics",
+        "Military history",
+        "Invention and technology"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background After World War II ended in 1945, the United States and the Soviet Union were the two dominant countries in the war-ravaged world. Each sought to maintain its supremacy by forging close economic, social, and military ties with neighbors and allies, and although some leaders had hoped to reduce arms levels, an arms race began after war ended. This constant pursuit…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/sputnik-memo",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-code-talkers",
+      "title": "Memorandum Regarding the Enlistment of Navajo Indians",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)",
+        "Indigenous history",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Maintaining secrecy, particularly during wartime, is vital to the national security of every country. Accomplishing this on the homefront during World War II was one objective of the Office of War Information. The office created propaganda posters that alerted American citizens to the presence of enemy spies and saboteurs lurking just below the surface of American…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/code-talkers",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-alaska",
+      "title": "Migration North to Alaska",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Immigration and migration"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Lesson Resources: Standards Correlations, Teaching Activities, Worksheets Background National History Day's 1998 theme encourages students to investigate topics related to Migration in History: People, Ideas, Culture. Records held by the National Archives and Records Administration document many such migrations and provide countless suggestions for project topics. The Gold…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/alaska",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-bloomer",
+      "title": "Petition of Amelia Bloomer Regarding Suffrage in the West",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Civics",
+        "Slavery and emancipation",
+        "Women's history"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Mid-19th century America was in some respects an age of perfectionism. People believed religious, moral, social, or political perfection was obtainable. Many different reform causes attracted dedicated adherents. Mental health. Temperance. Education. Abolition. Utopian socialism. Diet. Seances. Fashion. Suffrage. Less serious issues competed with the more serious…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/bloomer",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-edison-petition",
+      "title": "Petition Signed by Thomas A. Edison for Sunday Openings at the World's Columbian Exposition",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Arts",
+        "Mathematics"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Development of the Industrial United States (1870–1900)",
+        "Civics",
+        "Industry and labor",
+        "Data literacy"
+      ],
+      "keywords": [
+        "Development of the Industrial United States (1870–1900)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background In 1893, in just 184 days, 28 million people, about one-third of the American population, visited the World's Columbian Exposition in Chicago. Beyond the exhibits, visitors witnessed a panoply of constitutional rights. In particular, they saw the First Amendment in action. Citizens petitioned the fair's managers. Citizens assembled peaceably. Citizens exercised…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/edison-petition",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-fallout-docs",
+      "title": "Photographs and Pamphlet About Nuclear Fallout",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts",
+        "Science",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background In August 1945 the United States unleashed a new weapon of mass destruction against the Japanese at Hiroshima and Nagasaki and brought an end to World War II. Unlike conventional bombs, these new atomic bombs killed in two ways. They killed by sheer magnitude of the blast and the resulting firestorm, and they killed by means of nuclear fallout. In 1945 the United…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/fallout-docs",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-davis-case",
+      "title": "Photographs from the Dorothy Davis Case",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civil rights",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "In April 1951, the students at Robert Russa Moton High School in Prince Edward County, VA, went on strike. Although their protest was intended to persuade their local school board to build them a better school, it actually led to a landmark civil rights case that marked the end of legal segregation in the nation's public schools. This was one of five cases that the Supreme…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/davis-case",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-hine-photos",
+      "title": "Photographs of Lewis Hine: Documentation of Child Labor",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Development of the Industrial United States (1870–1900)",
+        "Military history",
+        "Industry and labor",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Development of the Industrial United States (1870–1900)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background \"There is work that profits children, and there is work that brings profit only to employers. The object of employing children is not to train them, but to get high profits from their work.\" -- Lewis Hine, 1908 After the Civil War, the availability of natural resources, new inventions, and a receptive market combined to fuel an industrial boom. The demand for labor…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/hine-photos",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-369th-infantry",
+      "title": "Photographs of the 369th Infantry and African Americans during World War I",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Emergence of Modern America (1890–1930)",
+        "Civics",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Emergence of Modern America (1890–1930)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background While the Great War raged in Europe for three long years, America steadfastly clung to neutrality. It was not until April 2, 1917, that President Wilson asked Congress to declare war on Germany. \"The world,\" he said, \"must be made safe for democracy.\" Quickly, Americans swung into action to raise, equip, and ship the American Expeditionary Force to the trenches of…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/369th-infantry",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-election-cartoons",
+      "title": "Political Cartoons Illustrating Progressivism and the Election of 1912",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Emergence of Modern America (1890–1930)",
+        "Civics",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Emergence of Modern America (1890–1930)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background The Progressive Era, as the period in history at the turn of the 20th century has come to be known, was a time of tremendous social, economic, and political changes, and the presidential election of 1912 typified the reform spirit of the period. Beginning in the late 1800s with the challenge to the \"spoils system\" of machine politics, progressivism gathered momentum…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/election-cartoons",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-wwii-posters",
+      "title": "Powers of Persuasion—Poster Art of World War II",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Guns, tanks, and bombs were the principal weapons of World War II, but there were other, more subtle, forms of warfare as well. Words, posters, and films waged a constant battle for the hearts and minds of the American citizenry just as surely as military weapons engaged the enemy. Persuading the American public became a wartime industry, almost as important as the…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/wwii-posters",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-prequel-to-revolution",
+      "title": "Prequel to Independence: Who Fired the Shot Heard 'Round the World?",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "Civics"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Prequel to Independence: Who Fired the Shot Heard 'Round the World? Documents Meeting in Watertown on April 22, 1775, following the April 18th incident in Lexington, the Second Provincial Congress of the Massachusetts Bay Colony: Ordered, That Mr. Gerry, Col. Cushing, Col. Barrett, Capt. Stone, Doct. Taylor, Mr. Sullivan, Mr. Freeman, Mr.",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards"
+      ],
+      "standardsNote": "The official lesson names these standards; review its standards section for the exact era, theme, and performance expectations.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/prequel-to-revolution.html",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-sow-seeds",
+      "title": "Sow the Seeds of Victory! Posters from the Food Administration During World War I",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Emergence of Modern America (1890–1930)",
+        "Civics",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Emergence of Modern America (1890–1930)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Even in peaceful times Americans frequently debate fundamental questions about government: What should the federal government do? What does the Constitution sanction? What does it prohibit? What is the relationship between governmental action and volunteerism? During wars, declared or not, Americans argue even more fervently as they often witness government…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Discussion / seminar"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/sow-seeds",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-electoral-tally",
+      "title": "Tally of the 1824 Electoral College Vote",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts",
+        "Mathematics"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "Civics"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background The Electoral College is one of the more difficult parts of the American electoral process to understand. While election of the president and vice-president was provided for in Article II, Section 1, Clauses 2, 3, and 4 of the U.S. Constitution, the process today has moved substantially away from the framers' original intent. Over the years a combination of several…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/electoral-tally",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-mccarthy-telegram",
+      "title": "Telegram from Senator Joseph McCarthy to President Harry S. Truman",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civics"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background On February 9, 1950, Senator Joseph McCarthy stepped into the spotlight of national attention with a speech given at Wheeling, West Virginia. McCarthy was nearing the end of his first term as senator and needed a big issue to energize his run for a second term. Holding up a piece of paper, he claimed to have in his possession information proving that more than 200…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/mccarthy-telegram",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-census-form",
+      "title": "Test Population Schedule for the 1930 Census",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Mathematics"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Emergence of Modern America (1890–1930)",
+        "Data literacy"
+      ],
+      "keywords": [
+        "Emergence of Modern America (1890–1930)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "In the spring of 1930, the Bureau of the Census temporarily employed nearly 87,800 individuals as enumerators for the Fifteenth Census of the United States. Each was at least 18 years old and a U.S. citizen, and had successfully filled out a test census schedule. The test included a narrative description of families and farms in a hypothetical community and a blank schedule.",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/census-form",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-hawaii-petition",
+      "title": "The 1897 Petition Against the Annexation of Hawaii",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Emergence of Modern America (1890–1930)",
+        "Civics",
+        "Indigenous history",
+        "International relations"
+      ],
+      "keywords": [
+        "Emergence of Modern America (1890–1930)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "When the Hawaiian islands were formally annexed by the United States in 1898, the event marked the end of a lengthy internal struggle between native Hawaiians and non-native American businessmen for control of the Hawaiian government. The previous year, an annexation treaty was blocked when the newly-formed Hawaiian Patriotic League, composed of native Hawaiians, successfully…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/hawaii-petition",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-amistad",
+      "title": "The Amistad Case",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Slavery and emancipation"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "In February of 1839, Portuguese slave hunters abducted a large group of Africans from Sierra Leone and shipped them to Havana, Cuba, a center for the slave trade. This abduction violated all of the treaties then in existence. Two Spanish plantation owners, Pedro Montes and Jose Ruiz, purchased 53 Africans and put them aboard the Cuban schooner Amistad to ship them to a…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Collaborative learning"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/amistad",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-atlanta-campaign",
+      "title": "The Atlanta Campaign of 1864: The Camera at War",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Civil War and Reconstruction (1850–1877)",
+        "Military history"
+      ],
+      "keywords": [
+        "Civil War and Reconstruction (1850–1877)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Today it is hard to imagine two massive armies maneuvering and clashing in the area that is now Atlanta: one army attempting to force its will upon the future metropolis and the other doing everything in its power to resist that will. Under the command of General William T. Sherman, a large Federal force moved out of Chattanooga, Tennessee towards the Georgia capital. The…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/atlanta-campaign.html",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-civil-rights-act",
+      "title": "The Civil Rights Act and the Equal Employment Opportunity Commission",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Contemporary United States (1968–present)",
+        "Civics",
+        "Civil rights"
+      ],
+      "keywords": [
+        "Contemporary United States (1968–present)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "En Español In the 1960s, Americans who knew only the potential of \"equal protection of the laws\" expected the President, the Congress, and the courts to fulfill the promise of the 14th Amendment. In response, all three branches of the federal government – as well as the public at large – debated a fundamental constitutional question: Does the Constitution's prohibition of…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Discussion / seminar"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/civil-rights-act",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-brady-photos",
+      "title": "The Civil War as Photographed by Mathew Brady",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Civil War and Reconstruction (1850–1877)",
+        "Civics",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Civil War and Reconstruction (1850–1877)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background Many historians call the Civil War the central event in U.S. history. The formation of the Constitution corrected the autonomy of individual states that the Articles of Confederation did not harness. Still, the young country struggled for 75 years to find a graceful balance between the power of the federal government and the several states. The rights of states and…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/brady-photos",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-don-henry",
+      "title": "The Don Henry Story",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "keywords": [
+        "Great Depression and World War II (1929–1945)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "In the March 1998 issue of Social Education, the journal of the National Council for the Social Studies, the Teaching With Documents article tells the story of Don Henry, a student at the University of Kansas who experienced a profound political change during his years on campus. Henry became a leader in radical campus organizations, volunteered to fight in the Spanish Civil…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/don-henry",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-blacks-civil-war",
+      "title": "The Fight for Equal Rights: Black Soldiers in the U.S. Military During the Civil War",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Civil War and Reconstruction (1850–1877)",
+        "Civil rights",
+        "Military history"
+      ],
+      "keywords": [
+        "Civil War and Reconstruction (1850–1877)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background \"Once let the black man get upon his person the brass letter, U.S., let him get an eagle on his button, and a musket on his shoulder and bullets in his pocket, there is no power on earth that can deny that he has earned the right to citizenship.\" Frederick Douglass The issues of emancipation and military service were intertwined from the onset of the Civil War. News…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/blacks-civil-war",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-homestead-act",
+      "title": "The Homestead Act of 1862",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Development of the Industrial United States (1870–1900)",
+        "Civics",
+        "Industry and labor"
+      ],
+      "keywords": [
+        "Development of the Industrial United States (1870–1900)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "President Abraham Lincoln signed the Homestead Act on May 20, 1862. On January 1, 1863, Daniel Freeman made the first claim under the Act, which gave citizens or future citizens up to 160 acres of public land provided they live on it, improve it, and pay a small registration fee. The Government granted more than 270 million acres of land while the law was in effect. Read…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/homestead-act",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-lewis-clark",
+      "title": "The Lewis and Clark Expedition",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Civics",
+        "International relations"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Español In 1803 President Thomas Jefferson guided a splendid piece of foreign diplomacy through the U.S. Senate: the purchase of Louisiana territory from France. After the Louisiana Purchase Treaty was made, Jefferson initiated an exploration of the newly purchased land and the territory beyond the \"great rock mountains\" in the West. He chose Meriwether Lewis to lead an…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/lewis-clark",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-robeson",
+      "title": "The Many Faces of Paul Robeson",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background How many people do you know who are athletes? How about an athlete who has won 15 varsity letters in four different sports? An athlete who has also played professional football while at the same time being valedictorian at his university? Does this athlete also hold a law degree? How many scholar-athlete performers can you name? Concert artists who have sold out…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/robeson",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-sioux-treaty",
+      "title": "The Sioux Treaty of 1868",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Indigenous history",
+        "Military history",
+        "International relations"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background \"This war was brought upon us by the children of the Great Father who came to take our land from us without price.\" --Spotted Tail The report and journal of proceedings of the commission appointed to obtain certain concessions from the Sioux Indians, December 26, 1876 The history of Native Americans in North America dates back thousands of years. Exploration and…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/sioux-treaty",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-slave-trade",
+      "title": "The Slave Trade",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Civics",
+        "Slavery and emancipation"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "At the Constitutional Convention in 1787, delegates fiercely debated the issue of slavery. They ultimately agreed that the United States would potentially cease importation of slaves in 1808. An act of Congress passed in 1800 made it illegal for Americans to engage in the slave trade between nations, and gave U.S. authorities the right to seize slave ships which were caught…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Discussion / seminar"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/slave-trade.html",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-guadalupe-hidalgo",
+      "title": "The Treaty of Guadalupe Hidalgo",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Expansion and Reform (1801–1868)",
+        "Civics",
+        "Military history",
+        "International relations"
+      ],
+      "keywords": [
+        "Expansion and Reform (1801–1868)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "En Español The Treaty of Guadalupe Hidalgo, that brought an official end to the Mexican-American War (1846-1848), was signed on February 2, 1848, at Guadalupe Hidalgo, a city north of the capital where the Mexican government had fled with the advance of U.S. forces. By its terms, Mexico ceded 55 percent of its territory, including the present-day states California, Nevada,…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/guadalupe-hidalgo",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-us-israel",
+      "title": "The U.S. Recognition of the State of Israel",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civics",
+        "International relations"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "At midnight on May 14, 1948, the Provisional Government of Israel proclaimed a new State of Israel. On that same date, the United States, in the person of President Truman, recognized the provisional Jewish government as the de facto authority of the Jewish state (de jure recognition was extended on January 31, 1949). Read more... Primary Sources Links go to DocsTeach, the…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/us-israel",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-blockade",
+      "title": "The Union Blockade: Lincoln's Proclamations",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Civil War and Reconstruction (1850–1877)",
+        "Military history"
+      ],
+      "keywords": [
+        "Civil War and Reconstruction (1850–1877)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Description Following the surrender of Fort Sumter to the Confederacy, Abraham Lincoln and his military advisors began to consider a variety of plans to bring the South back into the Union. In less than a week, the Union began its blockade of the southern states in an effort to prevent the trade of goods, supplies, and weapons between the Confederacy and other nations. Prize…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards"
+      ],
+      "standardsNote": "The official lesson names these standards; review its standards section for the exact era, theme, and performance expectations.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/blockade.html",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-korean-conflict",
+      "title": "The United States Enters the Korean Conflict",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Civics",
+        "Military history"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "In 1948 the Korea Peninsula was divided between a Soviet-backed government in the north and an American-backed government in the south. War broke out along the 38th parallel on June 25, 1950. On that day, North Korean troops coordinated an attack at several strategic points along the parallel and headed south toward Seoul. The United Nations Security Council responded to the…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/korean-conflict",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-volstead-act",
+      "title": "The Volstead Act and Related Prohibition Documents",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Emergence of Modern America (1890–1930)",
+        "Military history",
+        "Women's history"
+      ],
+      "keywords": [
+        "Emergence of Modern America (1890–1930)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "By the turn of the 20th century, temperance societies were prevalent in the United States. Concerned citizens had begun warning others about the effects of alcohol nearly 100 years earlier. In 1826 the American Temperance Society was founded to convince people to abstain from drinking. Not long after, the Women's Christian Temperance Union pledged not only to ban alcohol and…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/volstead-act",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-vietnam-photos",
+      "title": "The War in Vietnam: A Story in Photographs",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Postwar United States (1945–early 1970s)",
+        "Military history",
+        "Visual literacy"
+      ],
+      "keywords": [
+        "Postwar United States (1945–early 1970s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Español The war in Vietnam has been described as the first \"living room war\"—meaning combat was seen on TV screens and newspapers on a daily basis. Newspaper and television crews documented this war much more intensely than they did earlier conflicts. This willingness to allow documentation of the war extended to the military's own photographers—who captured thousands of…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/vietnam-photos",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-zimmermann",
+      "title": "The Zimmermann Telegram, 1917",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Emergence of Modern America (1890–1930)",
+        "Military history"
+      ],
+      "keywords": [
+        "Emergence of Modern America (1890–1930)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Español In January 1917, British cryptographers deciphered a telegram from German Foreign Minister Arthur Zimmermann to the German Minister to Mexico, Heinrich von Eckhardt, offering United States territory to Mexico in return for joining the German cause. This message helped draw the United States into the war and thus changed the course of history. Read more... Primary…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based",
+        "Data investigation"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/zimmermann",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-sedition-case",
+      "title": "United States v. Thomas Cooper: A Violation of the Sedition Law",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "Civics",
+        "International relations"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Background In the period following the ratification of the Constitution, the government of the United States was under Federalist control, first with George Washington and then under the presidency of John Adams. John Adams (1797-1801) and the Federalists, fearful of internal dissent while embroiled in international conflict with France, sought to reduce effective opposition…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/sedition-case",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-sedition",
+      "title": "United States v. William Durell: Violating the Alien and Sedition Acts",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "ELA & literacy",
+        "Arts"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Revolution and the New Nation (1754–1820s)",
+        "Civics",
+        "Military history"
+      ],
+      "keywords": [
+        "Revolution and the New Nation (1754–1820s)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Description Less than a decade after the Bill of Rights was passed and freedom of speech and of the press was guaranteed, Congress passed a series of laws that severely limited that right. During a stressful time of a quasi-war with France and the birth of the two-party system, the party in power (the Federalists) created the Alien and Sedition acts to limit the political…",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The official lesson names these standards; review its standards section for the exact era, theme, and performance expectations.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/sedition.html",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "nara-teaching-documents-woman-suffrage",
+      "title": "Woman Suffrage and the 19th Amendment",
+      "provider": "National Archives and Records Administration",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student",
+        "Librarian / media specialist"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "Primary sources",
+        "U.S. history",
+        "Emergence of Modern America (1890–1930)",
+        "Civics",
+        "Women's history"
+      ],
+      "keywords": [
+        "Emergence of Modern America (1890–1930)"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Beginning in the mid-19th century, several generations of woman suffrage supporters lectured, wrote, marched, lobbied, and practiced civil disobedience to achieve what many Americans considered a radical change in the Constitution – guaranteeing women the right to vote. Some suffragists used more confrontational tactics such as picketing, silent vigils, and hunger strikes.",
+      "implementationStyle": [
+        "Primary-source analysis",
+        "Inquiry-based"
+      ],
+      "time": "Flexible; activities vary by lesson",
+      "timeBucket": "Flexible / varies",
+      "prep": "Moderate prep",
+      "standards": [
+        "National History Standards",
+        "National Standards for Civics and Government"
+      ],
+      "standardsNote": "The collection states that its teaching activities are correlated to the National History Standards and National Standards for Civics and Government; the individual page does not supply exact codes.",
+      "cost": "Free",
+      "access": "No account needed to view or use the official lesson",
+      "formats": [
+        "Web page",
+        "Printable primary sources"
+      ],
+      "materials": "National Archives primary sources, historical background, and lesson-specific activity materials",
+      "availability": "Nationwide",
+      "url": "https://www.archives.gov/education/lessons/woman-suffrage",
+      "verified": "2026-09-28",
+      "featured": false,
+      "readyTomorrow": false
+    }
+  ]
+}

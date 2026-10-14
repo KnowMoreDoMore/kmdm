@@ -1,0 +1,101 @@
+[
+  {
+    "id": "academies",
+    "title": "National Academies",
+    "region": "DC / Online",
+    "mode": "Calendar link",
+    "url": "https://www.nationalacademies.org/events",
+    "description": "Workshops and public discussions in science, engineering, health, and AI. Some committee sessions are closed; check attendance details.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "hopkins",
+    "title": "Johns Hopkins University",
+    "region": "DC / Maryland",
+    "mode": "Calendar link",
+    "url": "https://hub.jhu.edu/events/",
+    "description": "University talks, workshops, and conferences, including AI, public policy, and health. Audience and registration restrictions vary.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "house",
+    "title": "House Science Committee",
+    "region": "DC / Online",
+    "mode": "Hearing calendar",
+    "url": "https://science.house.gov/hearings",
+    "description": "Official hearings and recordings on research and technology. Check the AI issue filter and confirm schedules and visitor requirements.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "senate",
+    "title": "Senate Commerce Committee",
+    "region": "DC / Online",
+    "mode": "Hearing calendar",
+    "url": "https://www.commerce.senate.gov/hearings",
+    "description": "Official hearings on technology, communications, consumer protection, and science. Recent AI hearing recordings are also available.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "nist",
+    "title": "NIST",
+    "region": "Maryland / Online",
+    "mode": "Automatic feed + calendar",
+    "url": "https://www.nist.gov/news-events/events",
+    "description": "Standards, measurement, evaluation, privacy, and security events. The automatic feed selects AI-related notices; many agency events are unrelated to AI.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "nsf",
+    "title": "National Science Foundation",
+    "region": "Virginia / Online",
+    "mode": "Automatic feed + calendar",
+    "url": "https://www.nsf.gov/events",
+    "description": "Research and funding webinars, office hours, and public meetings. Automatic notices come from the official NSF events RSS feed.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "smithsonian",
+    "title": "Smithsonian Institution",
+    "region": "DC / Online",
+    "mode": "Calendar link",
+    "url": "https://www.si.edu/events",
+    "description": "Museum talks and public programs on science, technology, history, and culture. Search for AI and confirm whether a program is in person or online.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "american-history",
+    "title": "National Museum of American History",
+    "region": "DC / Online",
+    "mode": "Calendar link",
+    "url": "https://americanhistory.si.edu/events/calendar",
+    "description": "Public programs with a history-of-technology lens. This is a general museum calendar, not a dedicated AI feed.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "eventbrite-dc",
+    "title": "Eventbrite \u00b7 Washington, DC",
+    "region": "DC",
+    "mode": "Discovery search",
+    "url": "https://www.eventbrite.com/d/dc--washington/artificial-intelligence/",
+    "description": "Community meetups, training, and commercial conferences. Organizer-submitted listings need independent checks of venue, fees, and claims.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "eventbrite-md",
+    "title": "Eventbrite \u00b7 Maryland",
+    "region": "Maryland",
+    "mode": "Discovery search",
+    "url": "https://www.eventbrite.com/d/md--baltimore/artificial-intelligence/",
+    "description": "Search Baltimore-area AI events, then refine the location for nearby Maryland communities. Listings are not vetted endorsements.",
+    "checked": "2026-10-12"
+  },
+  {
+    "id": "eventbrite-va",
+    "title": "Eventbrite \u00b7 Northern Virginia",
+    "region": "Virginia",
+    "mode": "Discovery search",
+    "url": "https://www.eventbrite.com/d/va--arlington/artificial-intelligence/",
+    "description": "Search Arlington-area AI events and expand to nearby Northern Virginia. Verify the organizer and delivery format before registering.",
+    "checked": "2026-10-12"
+  }
+]

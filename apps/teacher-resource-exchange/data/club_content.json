@@ -1,0 +1,158 @@
+{
+  "vision": {
+    "title": "A launchpad for student-led STEM work",
+    "short": "The NOVA STEM Leadership Club helps students turn an interest into a next step: a project, research experience, professional connection, public contribution, competition, or leadership role.",
+    "promise": "You joined because you want to become a STEM leader. Tell us where you want to go, and the club will help you find a path to get there.",
+    "model": [
+      "Students choose a direction rather than waiting for an officer title.",
+      "The club supplies infrastructure: mentors, teammates, planning tools, introductions, logistics, and funding support when available.",
+      "Every active member can lead at an appropriate scale, from one meeting or outreach station to a semester-long research or technical project.",
+      "Students can combine pathways and move among them as their interests develop."
+    ]
+  },
+  "design_note": "Competitions are treated as a way to practice leadership within several pathways, not as a pathway by themselves. Professional leadership and internal club leadership are separated so that mentoring, project management, and organizational stewardship remain visible.",
+  "action_modes": [
+    {"name": "Explore", "description": "Attend, observe, tour, or learn before making a larger commitment."},
+    {"name": "Contribute", "description": "Join a team and own a defined piece of work."},
+    {"name": "Lead", "description": "Set a goal, organize people and resources, and deliver an outcome."},
+    {"name": "Represent", "description": "Present, publish, compete, advocate, or speak for the club or a project."},
+    {"name": "Mentor", "description": "Help another student or a younger learner take a next step."}
+  ],
+  "pathways": [
+    {
+      "name": "Community Outreach & Education",
+      "slug": "outreach-education",
+      "description": "Help other people experience STEM through teaching, demonstrations, mentoring, and access-building.",
+      "student_outcomes": "Facilitation, lesson design, volunteer coordination, mentoring, and inclusive public engagement.",
+      "example_activities": [
+        "Lead a hands-on station at a K–12 STEM night",
+        "Build a reusable outreach kit and facilitator guide",
+        "Coordinate a tutoring or near-peer mentoring team",
+        "Host a career-exploration session for local students",
+        "Train club volunteers to deliver safe, accessible demonstrations"
+      ],
+      "starter_roles": ["Activity lead", "School liaison", "Volunteer trainer", "Outreach evaluator"]
+    },
+    {
+      "name": "Research & Discovery",
+      "slug": "research-discovery",
+      "description": "Ask questions, gather evidence, work with a mentor, and share findings.",
+      "student_outcomes": "Research design, data practice, literature review, responsible conduct, posters, and presentations.",
+      "example_activities": [
+        "Run a faculty research-match session",
+        "Form a small student research team",
+        "Hold a monthly paper or data discussion",
+        "Develop abstracts and posters for NCUR or a discipline meeting",
+        "Invite recent interns to explain how they found a lab"
+      ],
+      "starter_roles": ["Research team lead", "Methods coordinator", "Poster coach", "Faculty liaison"]
+    },
+    {
+      "name": "Engineering Design & Technical Projects",
+      "slug": "technical-projects",
+      "description": "Build, test, debug, and improve something with a team.",
+      "student_outcomes": "Scoping, systems thinking, technical documentation, safety, testing, iteration, and team delivery.",
+      "example_activities": [
+        "Launch a rocketry, astronomy, robotics, or environmental-sensing project",
+        "Enter a cybersecurity, math-modeling, or NASA design challenge",
+        "Use the NOVA Fab Lab for a prototype sprint",
+        "Run a technical skills clinic led by students",
+        "Publish a build log and present lessons learned"
+      ],
+      "starter_roles": ["Project lead", "Safety lead", "Test lead", "Documentation lead"]
+    },
+    {
+      "name": "Innovation & Entrepreneurship",
+      "slug": "innovation-entrepreneurship",
+      "description": "Turn a real problem into a tested solution, venture, or community innovation.",
+      "student_outcomes": "Problem discovery, customer interviews, prototyping, value propositions, pitching, and resource planning.",
+      "example_activities": [
+        "Run a weekend design sprint around a campus or community problem",
+        "Host a founder or technology-transfer speaker",
+        "Build and test a minimum viable prototype",
+        "Prepare a pitch for the Community College Innovation Challenge",
+        "Map local incubators, makerspaces, and small-business resources"
+      ],
+      "starter_roles": ["Challenge lead", "User-research lead", "Prototype lead", "Pitch coach"]
+    },
+    {
+      "name": "Career, Industry & Professional Leadership",
+      "slug": "career-industry",
+      "description": "Build a professional network, learn how STEM workplaces operate, and help peers prepare for the field.",
+      "student_outcomes": "Networking, career planning, professional norms, team leadership, and understanding industry sectors.",
+      "example_activities": [
+        "Organize a site visit, job-shadow day, or lab tour",
+        "Create a professional-society or student-chapter plan",
+        "Host a STEM alumni and employer roundtable",
+        "Lead a conference-preparation and networking workshop",
+        "Pair students for portfolio, résumé, and interview practice"
+      ],
+      "starter_roles": ["Industry liaison", "Society liaison", "Event host", "Peer career coach"]
+    },
+    {
+      "name": "Science Communication & Public Engagement",
+      "slug": "science-communication",
+      "description": "Make technical ideas clear, accurate, useful, and engaging for different audiences.",
+      "student_outcomes": "Writing, speaking, visualization, storytelling, audience awareness, and responsible communication.",
+      "example_activities": [
+        "Produce a student research showcase or lightning-talk night",
+        "Create a newsletter, podcast, video series, or explainer",
+        "Coach members for poster and oral presentations",
+        "Build a public exhibit around a local STEM issue",
+        "Translate a technical paper into a one-page community brief"
+      ],
+      "starter_roles": ["Editor", "Program host", "Visual storyteller", "Presentation coach"]
+    },
+    {
+      "name": "Policy, Ethics & Civic Leadership",
+      "slug": "policy-ethics",
+      "description": "Connect evidence and technology with public decisions, ethics, regulation, and community needs.",
+      "student_outcomes": "Policy research, ethical reasoning, stakeholder analysis, advocacy, and civic communication.",
+      "example_activities": [
+        "Hold a briefing on a current AI, energy, health, space, or environmental issue",
+        "Attend a Washington-area science-policy event",
+        "Write a nonpartisan policy memo or public comment",
+        "Practice meeting with a policymaker or agency professional",
+        "Run an ethics case discussion tied to a club project"
+      ],
+      "starter_roles": ["Policy brief lead", "Ethics facilitator", "Civic-event coordinator", "Agency liaison"]
+    },
+    {
+      "name": "Peer & Organizational Leadership",
+      "slug": "peer-organizational",
+      "description": "Help people and projects succeed through mentoring, planning, stewardship, and a strong club culture.",
+      "student_outcomes": "Mentoring, project management, meeting design, budgeting, fundraising, inclusion, and continuity.",
+      "example_activities": [
+        "Mentor a new member through a first opportunity application",
+        "Manage a semester project calendar and team check-ins",
+        "Lead a funding request, sponsor proposal, or travel plan",
+        "Create a handoff kit for recurring club programs",
+        "Facilitate a retrospective and recognize member contributions"
+      ],
+      "starter_roles": ["Project manager", "Peer mentor", "Operations lead", "Funding lead"]
+    }
+  ],
+  "maintenance": {
+    "cadence": [
+      {"frequency": "Weekly", "practice": "Review deadlines in the next 45 days; post only items with a clear student action."},
+      {"frequency": "Monthly", "practice": "Assign members to verify a small batch of records against official pages and record the verification date."},
+      {"frequency": "Each semester", "practice": "Choose 6–10 priority opportunities, pair each with a club activity, and name a student opportunity captain."},
+      {"frequency": "After participation", "practice": "Capture what the student applied for, attended, presented, or learned; save practical advice without storing sensitive application material."},
+      {"frequency": "Annually", "practice": "Archive closed cycles, roll recurring opportunities forward only after dates are announced, and review the pathway framework with members."}
+    ],
+    "roles": [
+      {"role": "Opportunity editor", "responsibility": "Verifies official links, dates, prices, and status labels."},
+      {"role": "Pathway leads", "responsibility": "Curate 3–5 priority opportunities and one club activity for their pathway."},
+      {"role": "Application mentors", "responsibility": "Run short clinics for résumés, abstracts, essays, and recommendation requests."},
+      {"role": "Outreach lead", "responsibility": "Maintains the middle- and high-school share list and connects competitions to mentoring."},
+      {"role": "Advisor", "responsibility": "Helps with institutional approvals, funding, risk, travel, and faculty introductions."}
+    ],
+    "data_rules": [
+      "Use a direct official program page, not a search result or third-party directory.",
+      "Never roll last year's date forward. Use TBA and keep last-cycle timing only in Notes.",
+      "Record the last verified date and a concrete next action for every active record.",
+      "Separate eligibility facts from recommendations; call out citizenship, age, GPA, enrollment, and transfer-status limits.",
+      "Archive rather than delete major recurring opportunities so students can plan early for the next cycle."
+    ]
+  }
+}

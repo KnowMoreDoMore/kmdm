@@ -1,0 +1,4 @@
+node_modules/
+worker/index.js
+.env*
+.dev.vars*

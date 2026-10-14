@@ -1,0 +1,29 @@
+{
+  "name": "kmdm-cranelab",
+  "account_id": "531c80b9991aad5e85f9d13f4d7de64e",
+  "main": "vinext/server/app-router-entry",
+  "compatibility_date": "2026-10-14",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "workers_dev": true,
+  "observability": {
+    "enabled": true,
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 0.1
+    }
+  },
+  "assets": {
+    "binding": "ASSETS",
+    "not_found_handling": "none"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "kmdm-cranelab",
+      "database_id": "ef7e8007-0266-49f2-8c24-b64f160a8aa3",
+      "migrations_dir": "drizzle"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "as_of": "2026-09-27",
+  "methodology": {
+    "salary": "BLS Occupational Employment and Wage Statistics. The displayed range is the statewide 10th-to-90th percentile estimate for the occupation, not a district salary schedule or a guaranteed starting-to-maximum range.",
+    "standards": "Official state education-agency documentation. Labels distinguish state-specific standards from formal NGSS adoption.",
+    "outcomes": "NAEP state snapshots and the official State Profiles data service for public-school students. Raw-score positions use unrounded estimates for the 50 states and District of Columbia; they are always paired with NAEP's statistical comparison because adjacent ranks may not represent meaningful differences.",
+    "working_conditions": "NCES National Teacher and Principal Survey is the preferred source. No composite teacher-happiness score is created."
+  },
+  "profiles": [
+    {
+      "state": "Virginia",
+      "abbreviation": "VA",
+      "status": "prototype",
+      "salary": {
+        "period": "May 2025",
+        "measure": "Annual wage estimates",
+        "source_label": "BLS Occupational Employment and Wage Statistics",
+        "source_url": "https://www.bls.gov/oes/tables.htm",
+        "note": "Statewide estimates across employers and regions; local school-division schedules may differ substantially.",
+        "occupations": [
+          {
+            "label": "Elementary school teachers",
+            "occupation_code": "25-2021",
+            "p10": 49770,
+            "median": 65550,
+            "p90": 100290
+          },
+          {
+            "label": "Middle school teachers",
+            "occupation_code": "25-2022",
+            "p10": 50590,
+            "median": 63520,
+            "p90": 99370
+          },
+          {
+            "label": "Secondary school teachers",
+            "occupation_code": "25-2031",
+            "p10": 49900,
+            "median": 72170,
+            "p90": 107930
+          }
+        ]
+      },
+      "standards": {
+        "system": "Virginia Standards of Learning (SOL)",
+        "summary": "Virginia publishes subject-specific Standards of Learning for K-12 instruction.",
+        "science": "The current VDOE science page includes the 2018 Science SOL for K-Physics and 2025 expanded high-school science standards. This profile does not label Virginia as an NGSS-adoption state.",
+        "source_label": "Virginia Department of Education K-12 Standards & Instruction",
+        "source_url": "https://www.doe.virginia.gov/teaching-learning-assessment/instruction/",
+        "science_source_url": "https://www.doe.virginia.gov/teaching-learning-assessment/k-12-standards-instruction/science/standards-of-learning"
+      },
+      "outcomes": {
+        "assessment": "NAEP 2024",
+        "note": "Average scale scores for public-school students. Scores are context, not a teacher-quality rating.",
+        "source_label": "NCES NAEP State Results",
+        "source_url": "https://nces.ed.gov/nationsreportcard/state/default.aspx",
+        "data_service_url": "https://www.nationsreportcard.gov/NDEDataService/ChartHandler.aspx",
+        "rank_methodology": "Competition positions calculated from unrounded 2024 average-score and at-or-above-Proficient estimates for the 50 states and District of Columbia; National public, DoDEA, and Puerto Rico are excluded. Positions do not account for sampling error and must be read with the provider's statistical comparison.",
+        "metrics": [
+          {
+            "subject": "Mathematics",
+            "grade": "4",
+            "score": 238,
+            "score_exact": 237.87,
+            "national_score": 237,
+            "national_difference": 0.57,
+            "national_comparison": "Not statistically different from National public",
+            "score_rank": 24,
+            "proficiency_rank": 22,
+            "comparison_count": 51,
+            "at_or_above_proficient": 40,
+            "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219VA4.pdf"
+          },
+          {
+            "subject": "Mathematics",
+            "grade": "8",
+            "score": 275,
+            "score_exact": 274.99,
+            "national_score": 272,
+            "national_difference": 2.76,
+            "national_comparison": "Not statistically different from National public",
+            "score_rank": 22,
+            "proficiency_rank": 22,
+            "comparison_count": 51,
+            "at_or_above_proficient": 29,
+            "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024219VA8.pdf"
+          },
+          {
+            "subject": "Reading",
+            "grade": "4",
+            "score": 214,
+            "score_exact": 214.11,
+            "national_score": 214,
+            "national_difference": -0.17,
+            "national_comparison": "Not statistically different from National public",
+            "score_rank": 30,
+            "proficiency_rank": 25,
+            "comparison_count": 51,
+            "at_or_above_proficient": 31,
+            "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220VA4.pdf"
+          },
+          {
+            "subject": "Reading",
+            "grade": "8",
+            "score": 256,
+            "score_exact": 256.26,
+            "national_score": 257,
+            "national_difference": -0.41,
+            "national_comparison": "Not statistically different from National public",
+            "score_rank": 29,
+            "proficiency_rank": 24,
+            "comparison_count": 51,
+            "at_or_above_proficient": 29,
+            "snapshot_url": "https://nces.ed.gov/nationsreportcard/subject/publications/stt2024/pdf/2024220VA8.pdf"
+          }
+        ]
+      },
+      "working_conditions": {
+        "status": "source identified",
+        "summary": "NCES NTPS includes state-level measures of working conditions, job satisfaction, autonomy, and future plans. A Virginia estimate will be added only after its sample and reporting reliability are checked.",
+        "source_label": "NCES National Teacher and Principal Survey",
+        "source_url": "https://nces.ed.gov/surveys/ntps/"
+      }
+    }
+  ]
+}

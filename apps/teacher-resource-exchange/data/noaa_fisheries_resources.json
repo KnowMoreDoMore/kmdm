@@ -1,0 +1,4047 @@
+{
+  "as_of": "2026-09-26",
+  "provider": "NOAA Fisheries",
+  "source_url": "https://www.fisheries.noaa.gov/resources/educational-materials",
+  "official_result_count": 93,
+  "verification": "Each record appeared in NOAA Fisheries' live official catalog; destination links are current NOAA.gov item URLs supplied by that catalog.",
+  "records": [
+    {
+      "id": "noaa-fisheries-cuento-con-usted-edicion-salmon-en-espanol",
+      "title": "¡Cuento con usted! edición salmón (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Aprenda a administrar el salmón responsablemente.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/cuento-con-usted-edicion-salmon-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-cuento-con-usted-edicion-trucha-cabeza-de-acero-en-espanol",
+      "title": "¡Cuento con usted! edición trucha cabeza de acero (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Aprenda qué es lo que la trucha cabeza de acero necesita para vivir y cómo puede hacer la diferencia.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/cuento-con-usted-edicion-trucha-cabeza-de-acero-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-2023-share-shore-sea-calendar",
+      "title": "2023 Share the Shore & Sea Calendar",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Pacific Islands"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "The calendar features youth artworks that illustrate how we can share the shore and sea with marine wildlife. It also includes facts and viewing guidelines for whales, dolphins, Hawaiian monk seals, sea turtles, and corals in the Pacific Islands region.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official other educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/2023-share-shore-sea-calendar",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-day-life-wild-spinner-dolphin-poster",
+      "title": "A Day in the Life of a Wild Spinner Dolphin Poster",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Pacific Islands"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "An educational poster illustrating the daytime resting and nighttime feeding activities of a Hawaiian spinner dolphin.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/day-life-wild-spinner-dolphin-poster",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-actividad-de-asociacion-de-aleta-de-orca-en-espanol",
+      "title": "Actividad de asociación de aleta de orca (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "En esta actividad, los participantes identificarán a orcas individuales en la manada L asociando sus manchas en forma de silla de montar y sus aletas dorsales con una guía de identificación.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/actividad-de-asociacion-de-aleta-de-orca-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-actividad-sobre-residuos-marinos-en-una-ballena-gris-en-espanol",
+      "title": "Actividad sobre residuos marinos en una ballena gris (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "En esta actividad, los participantes examinarán el contenido del estómago de una ballena gris que encalló en Arroyo Beach, en West Seattle, el 14 de abril de 2010.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/actividad-sobre-residuos-marinos-en-una-ballena-gris-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-actuar-en-favor-de-las-orcas-residentes-del-sur-en-espanol",
+      "title": "Actuar en favor de las orcas residentes del sur (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Las orcas residentes del sur son iconos del noroeste del Pacífico.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/actuar-en-favor-de-las-orcas-residentes-del-sur-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-educators-guide-meaningful-watershed-educational-experience-mwee",
+      "title": "An Educator’s Guide to the Meaningful Watershed Educational Experience (MWEE)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Watersheds",
+        "New England/Mid-Atlantic"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "This 40 page guide provides educators with information and tools to plan, design, and implement meaningful watershed educational experiences.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/educators-guide-meaningful-watershed-educational-experience-mwee",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-incredible-journey-curriculum-about-issues-affecting-salmon-and-how",
+      "title": "An Incredible Journey – Curriculum About Issues Affecting Salmon and How to Become a Salmon Steward",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science",
+        "Social studies"
+      ],
+      "topics": [
+        "Marine life",
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "This curriculum includes 10 hands-on lesson plans that explore the salmon life cycle; the cultural, environmental, and economic importance of salmon; the major issues facing salmon; and how individuals can get involved to protect these iconic species.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/incredible-journey-curriculum-about-issues-affecting-salmon-and-how",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-incredible-journey-childrens-book-about-salmon",
+      "title": "An Incredible Journey, a Children’s Book About Salmon",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8"
+      ],
+      "subjects": [
+        "Science",
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "This book introduces young children to the salmon life cycle and concepts such as ecosystems, keystone species, salmon culture, and stewardship. The book concludes with six case studies about kids who are making a difference on salmon-related issues.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/incredible-journey-childrens-book-about-salmon",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-introduction-protected-sharks-and-rays",
+      "title": "An Introduction to Protected Sharks and Rays",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Conservation",
+        "Endangered species",
+        "Southeast"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "The smalltooth sawfish, giant manta ray, oceanic whitetip shark, scalloped hammerhead shark are found in the southeastern United States and are listed under the U.S. Endangered Species Act (ESA).",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/introduction-protected-sharks-and-rays",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-aquaculture-fortune-teller-activity",
+      "title": "Aquaculture Fortune Teller Activity",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "Social studies"
+      ],
+      "topics": [
+        "Aquaculture",
+        "Pacific Islands"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Explore the unique benefits of aquaculture in the Pacific Islands region through a classic paper fortune teller.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/aquaculture-fortune-teller-activity",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-be-whale-wise-southern-resident-killer-whale-brochure",
+      "title": "Be Whale Wise - Southern Resident Killer Whale Brochure",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Be Whale Wise – Follow these guidelines and local laws in the presence of Southern Resident killer whales.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/be-whale-wise-southern-resident-killer-whale-brochure",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-central-valley-spring-run-chinook-salmon-brochure",
+      "title": "Central Valley Spring-run Chinook Salmon Brochure",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "Watersheds",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Spring-run Chinook salmon were once abundant throughout rivers and creeks in California’s Central Valley.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/central-valley-spring-run-chinook-salmon-brochure",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-central-valley-steelhead-brochure",
+      "title": "Central Valley Steelhead Brochure",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "ELA & literacy"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "What everyone should know about California Central Valley (CCV) steelhead",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/central-valley-steelhead-brochure",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-descripcion-general-de-las-oportunidades-de-pasantias-y-becas-en",
+      "title": "Descripción general de las oportunidades de pasantías y becas en NOAA Fisheries (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "9–12",
+        "Postsecondary"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "West Coast",
+        "National"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "La Oficina de Educación de la NOAA ofrece becas, pasantías, subvenciones y desarrollo profesional docente para preparar a las mentes más brillantes de todos los orígenes en las áreas relacionadas con la NOAA.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official other educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/descripcion-general-de-las-oportunidades-de-pasantias-y-becas-en",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-discovering-our-ocean-and-atmosphere-noaa-teacher-sea-book-series",
+      "title": "Discovering Our Ocean and Atmosphere with the NOAA Teacher at Sea Book Series",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "National"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "Unit of five lesson plans which correspond with the NOAA Teacher at Sea children's science books.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/discovering-our-ocean-and-atmosphere-noaa-teacher-sea-book-series",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-dr-dianes-flight-noaa-hurricane-hunters",
+      "title": "Dr. Diane's Flight with the NOAA Hurricane Hunters",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "New England/Mid-Atlantic",
+        "Southeast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Read a PDF version of our 2006 children's science book.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/dr-dianes-flight-noaa-hurricane-hunters",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-drinking-water-illustration",
+      "title": "Drinking Water Illustration",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Video",
+      "summary": "This illustration shows runoff from a school bus making its way into stormdrains and drinking water.",
+      "implementationStyle": [
+        "Media-rich",
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "Video"
+      ],
+      "materials": "Official video",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/drinking-water-illustration",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-driveway-and-street-runoff-animation",
+      "title": "Driveway and Street Runoff Animation",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies",
+        "Health"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Educator guide",
+      "summary": "This animation shows how lawn and driveway runoff contribute to polluted waterways and affect the health of aquatic life.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official user guide",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/driveway-and-street-runoff-animation",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-dulse-seaweed-anatomy-activity-sheet",
+      "title": "Dulse Seaweed Anatomy Activity Sheet",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "STEM careers",
+        "Alaska"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "The Dulse Seaweed Curriculum was a collaborative project between NOAA Fisheries researchers and educators from rural and urban classrooms in Alaska. The Seaweed Anatomy Activity allows students to explore the different structures of seaweed.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/dulse-seaweed-anatomy-activity-sheet",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-dulse-seaweed-bookmark-activity-instructions",
+      "title": "Dulse Seaweed Bookmark Activity Instructions",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "STEM careers",
+        "Alaska"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "The Dulse Seaweed Curriculum was a collaborative project between NOAA Fisheries researchers and educators from rural and urban classrooms in Alaska. The Seaweed Bookmark Instructions walk you step by step through the process of creating bookmarks.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/dulse-seaweed-bookmark-activity-instructions",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-dulse-seaweed-lifecycle-activity-sheet",
+      "title": "Dulse Seaweed Lifecycle Activity Sheet",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "STEM careers",
+        "Alaska"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "The Dulse Seaweed Curriculum was a collaborative project between NOAA Fisheries researchers and educators from rural and urban classrooms in Alaska. The Seaweed Lifecycle Activity explores the generalized lifecycle of red algae.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/dulse-seaweed-lifecycle-activity-sheet",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-dulse-seaweed-vs-plant-activity-sheet",
+      "title": "Dulse Seaweed vs Plant Activity Sheet",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "STEM careers",
+        "Alaska"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "The Dulse Seaweed Curriculum was a collaborative project between NOAA Fisheries researchers and educators from rural and urban classrooms in Alaska. The Seaweed vs Plant Activity explores the similarities and differences between seaweeds and plants.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/dulse-seaweed-vs-plant-activity-sheet",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-dulse-seaweed-word-search-activity-sheet",
+      "title": "Dulse Seaweed Word Search Activity Sheet",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "STEM careers",
+        "Alaska"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "The Dulse Seaweed Curriculum was a collaborative project between NOAA Fisheries researchers and educators from rural and urban classrooms in Alaska. The Seaweed Word Search Activity is a great way to engage students learning new vocabulary terms.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/dulse-seaweed-word-search-activity-sheet",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-empleos-con-noaa-fisheries-en-la-costa-oeste-en-espanol",
+      "title": "Empleos con NOAA Fisheries en la costa oeste (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "NOAA Fisheries tiene un amplio abanico de carreras: biología, comunicaciones, ecología, educación, tecnologías de la información, aplicación de la ley, gestión, política marina, divulgación, desarrollo de software, estadística, etc.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/empleos-con-noaa-fisheries-en-la-costa-oeste-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-essential-fish-habitat-hawaii-brochure",
+      "title": "Essential Fish Habitat in Hawaiʻi Brochure",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "Pacific Islands"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "An illustrated brochure that explains why Essential Fish Habitat (EFH) is important, which species have designated EFH in Hawai‘i, and what is involved in the EFH consultation process information for federal agencies.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/essential-fish-habitat-hawaii-brochure",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-esturion-verde-en-espanol",
+      "title": "Esturión verde (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "El esturión verde es una especie antigua cuyos orígenes se remontan a 220 millones de años, a la época de los dinosaurios.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/esturion-verde-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-good-salmon-habitat-bad-salmon-habitat-card-game",
+      "title": "Good Salmon Habitat, Bad Salmon Habitat Card Game",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "What habitat features give salmon and steelhead a chance to thrive, and what conditions are detrimental? The answers will change how you see the habitat around you. Classroom card game with illustrations and explanations.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/good-salmon-habitat-bad-salmon-habitat-card-game",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-gray-whale-marine-debris-activity",
+      "title": "Gray Whale Marine Debris Activity",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "In this activity, participants will examine the stomach contents of a gray whale that stranded on Arroyo Beach in West Seattle on April 14, 2010.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/gray-whale-marine-debris-activity",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-green-sturgeon-brochure",
+      "title": "Green Sturgeon Brochure",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Green sturgeon are an ancient species with their origins stretching back 220 million years to the time of the dinosaurs.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/green-sturgeon-brochure",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-guardianes-del-mar-en-espanol",
+      "title": "Guardianes del Mar (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Conozca los principales problemas que afectan a nuestro océano—como la acidificación del océano, la escorrentía urbana, y los desechos marinos—y descubra cómo puede ayudar.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/guardianes-del-mar-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-habitat-del-salmon-bueno-habitat-del-salmon-malo-juego-de-cartas-en",
+      "title": "Hábitat del salmón bueno, hábitat del salmón malo - Juego de cartas (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "¿Qué características del hábitat le dan al salmón la oportunidad de prosperar y qué condiciones son perjudiciales? Las respuestas cambiarán la forma en que ves el hábitat que te rodea.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/habitat-del-salmon-bueno-habitat-del-salmon-malo-juego-de-cartas-en",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-habitat-mapping-activity-follow-oio-throughout-their-life-cycle",
+      "title": "Habitat Mapping Activity: Follow ‘Ō‘io Throughout Their Life Cycle",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "Data literacy",
+        "Pacific Islands"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Students color their way through the various habitats a Hawaiian bonefish inhabits throughout its life cycle.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/habitat-mapping-activity-follow-oio-throughout-their-life-cycle",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-household-products-illustration",
+      "title": "Household Products Illustration",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "This illustration shows how household products, like cleaning products, make their way into drinking water.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/household-products-illustration",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-im-counting-you-salmon-brochure-about-issues-affecting-salmon-and",
+      "title": "I'm Counting on You! Salmon Brochure About Issues Affecting Salmon and How You Can Help",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Learn about the threats facing salmon and what you can do to help.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/im-counting-you-salmon-brochure-about-issues-affecting-salmon-and",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-im-counting-you-steelhead-brochure",
+      "title": "I'm Counting on You! Steelhead Brochure",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "ELA & literacy"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Learn about the threats facing steelhead and what you can do to help.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/im-counting-you-steelhead-brochure",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-jobs-careers-and-internships-noaa-fisheries-west-coast",
+      "title": "Jobs, Careers, and Internships with NOAA Fisheries on the West Coast",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "Social studies",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Fisheries and seafood",
+        "Habitats and ecosystems",
+        "STEM careers",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "NOAA Fisheries has a range of careers including biology, communications, ecology, education, information technology, law enforcement, management, marine policy, outreach, software development, statistics, and more.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/jobs-careers-and-internships-noaa-fisheries-west-coast",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-keep-salmon-drugs",
+      "title": "Keep Salmon Off Drugs",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "Protect Salmon and Waterways",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/keep-salmon-drugs",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-keep-sea-entanglement-free",
+      "title": "Keep the Sea Entanglement Free!",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Alaska"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Entangled Marine Mammal Brochure explaining how to responsibly stow or dispose of packing bands, ropes, netting and garbage to prevent harm and death.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/keep-sea-entanglement-free",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-life-cycle-pacific-salmon",
+      "title": "Life Cycle of the Pacific Salmon",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "A 5-minute animation about the Pacific salmon life cycle and the challenges they face",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/life-cycle-pacific-salmon",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-littering-animation",
+      "title": "Littering Animation",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Video",
+      "summary": "This animation shows how marine debris comes back to shore.",
+      "implementationStyle": [
+        "Media-rich",
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "Video"
+      ],
+      "materials": "Official video",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/littering-animation",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-littering-cigarette-butts-illustration",
+      "title": "Littering Cigarette Butts Illustration",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "This illustration shows how littered cigarette butts impact drinking water.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/littering-cigarette-butts-illustration",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-make-your-own-noaa-survey-boat",
+      "title": "Make your own NOAA survey boat",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Data literacy",
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Make a NOAA survey boat using origami!",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/make-your-own-noaa-survey-boat",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-mamiferos-marinos-de-la-costa-oeste-de-los-ee-uu",
+      "title": "Mamíferos marinos de la costa oeste de los EE. UU.",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Esta guía ilustrada muestra todos los mamíferos marinos de la costa oeste de los Estados Unidos.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/mamiferos-marinos-de-la-costa-oeste-de-los-ee-uu",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-mantenga-los-medicamentos-fuera-del-alcance-del-salmon-en-espanol",
+      "title": "Mantenga los medicamentos fuera del alcance del salmón (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Proteja el salmón y los cursos de agua. Deposite los medicamentos no utilizados en instalaciones de recolección para su eliminación segura.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/mantenga-los-medicamentos-fuera-del-alcance-del-salmon-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-mariana-trench-marine-national-monument-posters",
+      "title": "Mariana Trench Marine National Monument Posters",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Pacific Islands"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "A visual journey of the Mariana Trench Marine National Monument that captures the key elements of the Monument, along with a depth profile comparison and identification key.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/mariana-trench-marine-national-monument-posters",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-marine-debris-education-program-supplement-marine-debris-coloring",
+      "title": "Marine Debris Education Program Supplement: Marine Debris Coloring Book, 1989",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "Conservation",
+        "Alaska"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "NOAA Technical Memorandum NMFS-F/AKR-9",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/marine-debris-education-program-supplement-marine-debris-coloring",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-marine-mammals-us-west-coast-poster",
+      "title": "Marine Mammals of the U.S. West Coast Poster",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "A two-sided poster with illustrations of all West Coast Marine Mammals; large and small.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/marine-mammals-us-west-coast-poster",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-miss-cooks-voyage-ronald-h-brown",
+      "title": "Miss Cook's Voyage on the Ronald H. Brown",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "International"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Read a PDF version of our 2005 children's science book.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/miss-cooks-voyage-ronald-h-brown",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-mr-tanenbaum-explores-atlantic-fisheries-noaa-ship-henry-b-bigelow",
+      "title": "Mr. Tanenbaum Explores Atlantic Fisheries on the NOAA Ship Henry B. Bigelow",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Read a PDF version of our 2009 children's science book.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/mr-tanenbaum-explores-atlantic-fisheries-noaa-ship-henry-b-bigelow",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-mrs-armwoods-hydrographic-adventure-noaa-ship-fairweather",
+      "title": "Mrs. Armwood's Hydrographic Adventure on the NOAA Ship Fairweather",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy",
+        "Mathematics"
+      ],
+      "topics": [
+        "Data literacy",
+        "Alaska"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Read a PDF version of our 2007 children's science book.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/mrs-armwoods-hydrographic-adventure-noaa-ship-fairweather",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-mural-del-salmon-paquete-informativo-en-espanol",
+      "title": "Mural del salmón - paquete informativo (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Este mural está diseñado para ser un proyecto de desarrollo comunitario.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/mural-del-salmon-paquete-informativo-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-noaa-enrichment-marine-sciences-and-oceanography-curriculum",
+      "title": "NOAA Enrichment in Marine Sciences and Oceanography Curriculum",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "Mathematics"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Data literacy",
+        "National"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "Each lesson contains a PowerPoint presentation and a Teacher's Guide PDF file. In some cases, lessons contain other supplementary files that are referred to in the Teacher's Guide. Please note that there is a stand-alone Glossary file containing definitions of bold terms throughout the Teacher's Guides. All PDFs can be read with Adobe Acrobat or Preview (Mac OS). Some of the PowerPoint presentations have embedded video files. Your computer must have QuickTime or Windows Media Player to play these videos. If the videos do not start automatically when clicked in the slide show presentation, try opening the video files directly from the lesson folder",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/noaa-enrichment-marine-sciences-and-oceanography-curriculum",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-north-pacific-right-whale-coloring-page",
+      "title": "North Pacific Right Whale Coloring Page",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Alaska"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Color in the rare and elusive North Pacific right whale!",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/north-pacific-right-whale-coloring-page",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-orphan-orca-saving-springer-northern-resident-killer-whale-pod",
+      "title": "Orphan Orca: Saving Springer a Northern Resident Killer Whale from the A Pod",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12",
+        "Postsecondary"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Video",
+      "summary": "In 2002, an orphaned killer whale was discovered in Puget Sound. Follow Springer's amazing rescue in this film and celebrate the 10 year anniversary of her successful reunion and recovery.",
+      "implementationStyle": [
+        "Media-rich",
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "Video"
+      ],
+      "materials": "Official video",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/orphan-orca-saving-springer-northern-resident-killer-whale-pod",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-overview-internship-and-scholarship-opportunities-noaa-fisheries",
+      "title": "Overview of Internship and Scholarship Opportunities at NOAA Fisheries",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "9–12",
+        "Postsecondary"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "West Coast",
+        "National"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "NOAA's Office of Education provides scholarships, internships, grants, and teacher professional development to prepare the brightest minds from diverse backgrounds in NOAA-related fields.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official other educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/overview-internship-and-scholarship-opportunities-noaa-fisheries",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-pacific-salmon-life-cycle-poster",
+      "title": "Pacific Salmon Life Cycle Poster",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "This poster illustrates the Pacific salmon life cycle.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/pacific-salmon-life-cycle-poster",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-pacific-salmon-survival-pyramid",
+      "title": "Pacific Salmon Survival Pyramid",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "The Salmon Survival Pyramid shows the average survival rate of Pacific salmon from egg to spawning adult.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/pacific-salmon-survival-pyramid",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-project-based-learning-saving-southern-resident-killer-whales",
+      "title": "Project-Based Learning: Saving the Southern Resident Killer Whales",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "6–8"
+      ],
+      "subjects": [
+        "Science",
+        "Social studies"
+      ],
+      "topics": [
+        "Marine life",
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "By employing the principles of project based learning, this unit empowers students to steer their own learning, to investigate the issues that are most important to them, and to inspire their greater community in conservation and recovery.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/project-based-learning-saving-southern-resident-killer-whales",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-protectores-de-salmonidos-en-espanol",
+      "title": "Protectores de Salmónidos (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "A través de los cómics, los juegos de palabras, y los laberintos, los niños aprenden sobre la importancia de los salmónidos, las amenazas que enfrentan, y lo que los niños pueden hacer para ayudar.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/protectores-de-salmonidos-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-reducir-el-impacto-mejores-practicas-para-la-pesca-interior-en",
+      "title": "Reducir el impacto: Mejores prácticas para la pesca interior (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Proporciona consejos sobre cómo manipular y liberar peces interiores de una manera que minimice los daños y maximice sus posibilidades de recuperación.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/reducir-el-impacto-mejores-practicas-para-la-pesca-interior-en",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-salmon-mural-coloring-sheet",
+      "title": "Salmon Mural Coloring Sheet",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Our giant salmon mural has been shrunk down into a black and white line coloring sheet. Inside of the large salmon, there are many intricacies that show how people are degrading and restoring salmon habitat.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/salmon-mural-coloring-sheet",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-salmon-mural-information-packet",
+      "title": "Salmon Mural Information Packet",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "In order to raise awareness about the importance and plight of salmon this mural has been painted in several cities on the West Coast. The mural design is free for the public to use.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/salmon-mural-information-packet",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-salmon-survival-game",
+      "title": "Salmon Survival Game",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science",
+        "Engineering & design"
+      ],
+      "topics": [
+        "Marine life",
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "The Salmon Survival board game walks participants through the salmon life cycle. During each life stage, participants attempt to survive the natural and human-made challenges salmon face, such as drought, passage barriers, and predators. But don’t despair, the game also features ways that people are helping salmon, such as building rain gardens, conserving water, and constructing fish ladders.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/salmon-survival-game",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-salmonid-savers-word-puzzles-mazes-and-games-about-saving-salmon-and",
+      "title": "Salmonid Savers – Word Puzzles, Mazes, and Games About Saving Salmon and Steelhead",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Through comics, word puzzles, and mazes, kids learn about the importance of salmonids (e.g., salmon and steelhead trout) the threats facing them, and what kids can do to help.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/salmonid-savers-word-puzzles-mazes-and-games-about-saving-salmon-and",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-salvar-las-orcas-residentes-del-sur-en-espanol",
+      "title": "Salvar a las orcas residentes del sur (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "6–8"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "Una unidad de aprendizaje basada en proyectos para la escuela secundaria",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/salvar-las-orcas-residentes-del-sur-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-scaling-back-your-impact-best-practices-inland-fishing-brochure",
+      "title": "Scaling Back Your Impact: Best Practices for Inland Fishing Brochure",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Provides tips on handling and releasing inland fish in a way that minimizes injury and maximizes their chances of recovery.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/scaling-back-your-impact-best-practices-inland-fishing-brochure",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-scavenger-hunt-navigating-through-marianas-trench-marine-national",
+      "title": "Scavenger Hunt: Navigating Through the Marianas Trench Marine National Monument",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "6–8"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "Pacific Islands"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "This hands-on scavenger hunt encourages students to use their observational skills to explore the different ecosystems and natural marine resources of the Marianas Trench Marine National Monument.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/scavenger-hunt-navigating-through-marianas-trench-marine-national",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-scientific-illustration-poster-essential-fish-habitat-hawaii",
+      "title": "Scientific Illustration Poster: Essential Fish Habitat in Hawai‘i",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "Conservation",
+        "Pacific Islands"
+      ],
+      "resourceType": "Poster / printable",
+      "summary": "A new outreach tool in Hawaiʻi bridges science and art to show the importance of conserving each habitat critical to a fish's life.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official poster / sign",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/scientific-illustration-poster-essential-fish-habitat-hawaii",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-scutes-students-collaborating-undertake-tracking-efforts-sturgeon",
+      "title": "SCUTES: Students Collaborating to Undertake Tracking Efforts for Sturgeon",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "New England/Mid-Atlantic"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "Lesson plans to help you instruct and inform your students about Atlantic and shortnose sturgeon.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/scutes-students-collaborating-undertake-tracking-efforts-sturgeon",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-sea-prudente-con-las-ballenas-en-espanol",
+      "title": "Sea prudente con las ballenas (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Aprenda a ser prudente con las ballenas.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/sea-prudente-con-las-ballenas-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-sea-stewards-handbook-learn-about-issues-affecting-our-ocean-and",
+      "title": "Sea Stewards Handbook – Learn About Issues Affecting Our Ocean and What You Can Do to Help",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Conservation",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "This handbook was developed to support the Sea Stewards program. Underserved students, persons with disabilities, and veterans spend a day recreating on the ocean and learning about what it means to be an ethical angler and a marine steward.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/sea-stewards-handbook-learn-about-issues-affecting-our-ocean-and",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-sea-rungo-wild-atlantic-salmon",
+      "title": "Sea-Run,Go! Wild Atlantic Salmon",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Conservation",
+        "New England/Mid-Atlantic"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "In this lesson students will use the Agents of Discovery™ app on their mobile devices to learn about the wild Atlantic salmon. Students will complete challenge activities within the Sea-Run, Go! Mission which were developed to increase general knowledge of wild Atlantic salmon; promote understanding the species’ conservation and recovery needs; and to encourage environmental stewardship.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/sea-rungo-wild-atlantic-salmon",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-seeds-salmon-gardening-improve-salmon-habitat",
+      "title": "Seeds for Salmon: Gardening to Improve Salmon Habitat",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "Watersheds",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "With a few tweaks to your gardening and landscaping routines, you can make a real difference for water quality and our iconic Pacific salmon.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/seeds-salmon-gardening-improve-salmon-habitat",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-semillas-para-el-salmon-en-espanol",
+      "title": "Semillas para el salmón (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Independientemente del tamaño de su espacio verde, puede incorporar prácticas de jardinería beneficiosas para el salmón.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/semillas-para-el-salmon-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-sense-place-shorezone-classroom-curriculum-implementation",
+      "title": "Sense of Place: ShoreZone in the Classroom Curriculum Implementation",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Alaska"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "ShoreZone Curricular Units",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/sense-place-shorezone-classroom-curriculum-implementation",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-shallow-water-salmon-habitat-animation",
+      "title": "Shallow Water Salmon Habitat Animation",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Habitats and ecosystems",
+        "West Coast"
+      ],
+      "resourceType": "Video",
+      "summary": "This animation explains the importance of near-shore habitat for salmon.",
+      "implementationStyle": [
+        "Media-rich",
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "Video"
+      ],
+      "materials": "Official video",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/shallow-water-salmon-habitat-animation",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-share-shore-coloring-and-activity-packet-hawaii-edition",
+      "title": "Share the Shore Coloring and Activity Packet (Hawai'i Edition)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Pacific Islands"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Identify the good (and bad) behaviors for sharing the shore and sea with marine wildlife in Hawai'i!",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/share-shore-coloring-and-activity-packet-hawaii-edition",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-southern-resident-killer-whale-fin-matching-activity",
+      "title": "Southern Resident Killer Whale Fin Matching Activity",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Learn how to identify individual killer whales, including the Southern Resident killer whales.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/southern-resident-killer-whale-fin-matching-activity",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-steller-watch",
+      "title": "Steller Watch",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Endangered species",
+        "Alaska"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "Help us find out why the endangered Steller sea lion continues to decline in the Aleutian Islands.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official other educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/steller-watch",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-taking-action-southern-resident-killer-whales",
+      "title": "Taking Action for Southern Resident Killer Whales",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Learn about the threats facing the Southern Residents and how your actions can make a difference. This brochure answers the question— How can you help the Southern Residents?",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/taking-action-southern-resident-killer-whales",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-teacher-sea-lesson-plans",
+      "title": "Teacher at Sea Lesson Plans",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Fisheries and seafood",
+        "STEM careers",
+        "National"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "These lessons were selected, reviewed, edited, and updated in partnership with scientists and staff at NOAA’s Alaska Fisheries Center and focus on NOAA Fisheries research conducted in the Gulf of Alaska and the Bering Sea.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/teacher-sea-lesson-plans",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-marvelous-music-report-marine-national-monuments-short-film",
+      "title": "The Marvelous Music Report of the Marine National Monuments Short Film",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "Pacific Islands"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "An educational activity based on the NOAA funded short film: The Marvelous Musical Report of the Marine National Monuments.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/marvelous-music-report-marine-national-monuments-short-film",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-rockfish-kids-book",
+      "title": "The Rockfish Kids Book",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science",
+        "Social studies",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "Endangered species",
+        "West Coast"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "This science-based educational children’s book depicts the unique life history of two rockfish species in Puget Sound listed under the Endangered Species Act.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/rockfish-kids-book",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-un-juego-de-mesa-sobre-el-ciclo-de-vida-del-salmon-en-espanol",
+      "title": "Un juego de mesa sobre el ciclo de vida del salmón (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Marine life",
+        "West Coast"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "El juego de mesa Salmon Survival guía a los participantes a través del ciclo de vida del salmón. Durante cada etapa de la vida, los participantes intentan sobrevivir a los desafíos naturales y provocados por el hombre que enfrenta el salmón.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/un-juego-de-mesa-sobre-el-ciclo-de-vida-del-salmon-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-un-viaje-increible-un-libro-para-ninos-de-el-salmon-en-espanol",
+      "title": "Un viaje increíble - un libro para niños de el salmón (en español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Classroom resource",
+      "summary": "A lo largo de su corta vida, el salmón completa un viaje increíble lleno de desafíos tanto naturales como creados por el hombre.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page"
+      ],
+      "materials": "Official educational material",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/un-viaje-increible-un-libro-para-ninos-de-el-salmon-en-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-un-viaje-increible-plan-de-estudios-para-los-grados-4-5-espanol",
+      "title": "Un viaje increíble: Plan de estudios para los grados 4-5 (español)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "Un viaje increíble comprende 10 planes de lecciones prácticas",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/un-viaje-increible-plan-de-estudios-para-los-grados-4-5-espanol",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-using-scientific-data-collected-marine-national-monuments",
+      "title": "Using Scientific Data Collected in the Marine National Monuments",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Science",
+        "Mathematics"
+      ],
+      "topics": [
+        "Marine life",
+        "Data literacy",
+        "Pacific Islands"
+      ],
+      "resourceType": "Curriculum / unit",
+      "summary": "Educational resources and lesson plans for grades 7-12 to learn about the variety of marine life, their values, and functions in the Monuments using scientific data.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/using-scientific-data-collected-marine-national-monuments",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-valentine-cards-share-love-marine-animals-pacific-islands-region",
+      "title": "Valentine Cards to “Share the Love” for Marine Animals in the Pacific Islands Region",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher"
+      ],
+      "gradeBands": [],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "Ocean and coastal science",
+        "Marine life",
+        "Pacific Islands"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Eight valentine cards with drawings to color, fun facts, and viewing distances for humpback whales, spinner dolphins, false killer whales, blue whales, sea turtles, Hawaiian monk seals, scalloped hammerhead sharks, giant manta rays, and gray snappers.",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/valentine-cards-share-love-marine-animals-pacific-islands-region",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-where-do-baby-skates-come",
+      "title": "Where Do Baby Skates Come From?",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "6–8"
+      ],
+      "subjects": [
+        "Science",
+        "ELA & literacy"
+      ],
+      "topics": [
+        "Marine life",
+        "Fisheries and seafood",
+        "Alaska"
+      ],
+      "resourceType": "Guide / printable",
+      "summary": "Reproduction in Skates from Alaska, a NOAA Fisheries, Alaska Fisheries Science Center brochure.",
+      "implementationStyle": [
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Official brochure / book / fact sheet",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/where-do-baby-skates-come",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    },
+    {
+      "id": "noaa-fisheries-woods-hole-science-aquarium-activity-sheet-elementary",
+      "title": "Woods Hole Science Aquarium Activity Sheet (Elementary)",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "topics": [
+        "New England/Mid-Atlantic"
+      ],
+      "resourceType": "Lesson / activity",
+      "summary": "Thinking About Animal Adaptations Observe the animals at the aquarium and answer the questions. (Elementary)",
+      "implementationStyle": [
+        "Teacher-led",
+        "Hands-on"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Varies by activity",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "PDF / printable"
+      ],
+      "materials": "Materials vary by activity; see the official resource",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/woods-hole-science-aquarium-activity-sheet-elementary",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": false
+    },
+    {
+      "id": "noaa-fisheries-yard-care-animation",
+      "title": "Yard Care Animation",
+      "provider": "NOAA Fisheries",
+      "sourceType": "Federal agency",
+      "category": "Teach",
+      "audience": [
+        "Classroom teacher",
+        "Student"
+      ],
+      "gradeBands": [
+        "K–2",
+        "3–5",
+        "6–8",
+        "9–12"
+      ],
+      "subjects": [
+        "Social studies"
+      ],
+      "topics": [
+        "West Coast"
+      ],
+      "resourceType": "Video",
+      "summary": "This animation shows a woman pouring chemicals on her lawn and how the chemicals come full circle.",
+      "implementationStyle": [
+        "Media-rich",
+        "Teacher-led"
+      ],
+      "time": "Flexible; see the official resource",
+      "timeBucket": "Flexible / varies",
+      "prep": "Light prep",
+      "standards": [],
+      "standardsNote": "NOAA Fisheries supplies grade and material-type metadata; no formal standards alignment is claimed unless the individual resource states one.",
+      "cost": "Free",
+      "access": "No account needed to view the official resource",
+      "formats": [
+        "Web page",
+        "Video"
+      ],
+      "materials": "Official video",
+      "availability": "Nationwide",
+      "url": "https://www.fisheries.noaa.gov/resource/educational-materials/yard-care-animation",
+      "verified": "2026-09-26",
+      "featured": false,
+      "readyTomorrow": true
+    }
+  ]
+}
