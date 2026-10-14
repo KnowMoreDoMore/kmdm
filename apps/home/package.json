@@ -1,0 +1,9 @@
+{
+  "name": "kmdm-home",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node --check index.js",
+    "deploy": "node scripts/deploy.mjs"
+  }
+}
