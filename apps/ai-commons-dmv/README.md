@@ -5,3 +5,7 @@ Independent Cloudflare Worker. Build the generated pages with `node scripts/rend
 Deploy with `node scripts/deploy.mjs`. Cloudflare Workers Builds supplies deployment authorization through CLOUDFLARE_API_TOKEN. Never commit that token.
 
 The published source is generated from templates/, data/, and worker runtime modules. worker/index.js is generated and excluded from version control.
+
+Live site: https://ai.kmdm.org/
+
+Automatic publishing uses the `main` branch of `KnowMoreDoMore/kmdm`, the `apps/ai-commons-dmv` root directory, and the KMDM admin publishing credential managed in Cloudflare.
