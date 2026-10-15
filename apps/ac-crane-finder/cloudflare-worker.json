@@ -1,6 +1,6 @@
 {
   "name": "kmdm-cranes",
-  "account_id": "531c80b9991aad5e85f9d13f4d7de64e",
+  "account_id": "1deea91dfd331c21b5acf6733c0c0b26",
   "main": "./worker/index.ts",
   "compatibility_date": "2026-10-14",
   "compatibility_flags": [
