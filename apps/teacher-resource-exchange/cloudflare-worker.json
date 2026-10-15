@@ -1,6 +1,6 @@
 {
   "name": "kmdm-teachers",
-  "account_id": "531c80b9991aad5e85f9d13f4d7de64e",
+  "account_id": "1deea91dfd331c21b5acf6733c0c0b26",
   "main": "vinext/server/fetch-handler",
   "compatibility_date": "2026-10-14",
   "compatibility_flags": [
@@ -22,7 +22,7 @@
     {
       "binding": "DB",
       "database_name": "kmdm-teachers",
-      "database_id": "ed2b4e6d-2216-4a4b-b570-f78284dc4a15",
+      "database_id": "178656cd-9157-4fc6-8af1-e337d30be41c",
       "migrations_dir": "drizzle"
     }
   ]

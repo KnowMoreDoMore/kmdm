@@ -1,6 +1,6 @@
 import { readFile } from 'node:fs/promises';
 
-const accountId = process.env.CLOUDFLARE_ACCOUNT_ID || '531c80b9991aad5e85f9d13f4d7de64e';
+const accountId = process.env.CLOUDFLARE_ACCOUNT_ID || '1deea91dfd331c21b5acf6733c0c0b26';
 const token = process.env.CLOUDFLARE_API_TOKEN;
 if (!token) throw new Error('Cloudflare deployment authorization is required.');
 const worker = 'kmdm-ai-commons';

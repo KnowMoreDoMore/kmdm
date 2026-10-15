@@ -1,6 +1,6 @@
 {
   "name": "kmdm-cranelab",
-  "account_id": "531c80b9991aad5e85f9d13f4d7de64e",
+  "account_id": "1deea91dfd331c21b5acf6733c0c0b26",
   "main": "vinext/server/app-router-entry",
   "compatibility_date": "2026-10-14",
   "compatibility_flags": [
@@ -22,7 +22,7 @@
     {
       "binding": "DB",
       "database_name": "kmdm-cranelab",
-      "database_id": "ef7e8007-0266-49f2-8c24-b64f160a8aa3",
+      "database_id": "fd284383-020e-44c5-8eee-f84da41e1127",
       "migrations_dir": "drizzle"
     }
   ]
